@@ -75,12 +75,27 @@ This enables performance comparison across marketing sources.
 ```bash
 subscription-analytics-sql/
 │
-├── data/
+├── Dashboard/
+│   └── dashboard.py
 │
-├── sql/
-│   ├── 01_schema.sql
-│   ├── 02_kpi_engine.sql
-│   └── 03_revenue_breakdown.sql
+├── Data/
+│   ├── dataset_creation.py
+│   ├── users.csv
+│   ├── subscriptions.csv
+│   ├── payments.csv
+│   └── user_activity.csv
+│
+├── Outputs/
+│   └── dashboard.png
+│
+├── SQL/
+│   ├── 00_schema.sql
+│   ├── 01_exploration.sql
+│   ├── 02_kpi_analysis.sql
+│   ├── 03_revenue_breakdown.sql
+│   ├── 04_churn_analysis.sql
+│   ├── 05_ltv_analysis.sql
+│   └── 06_cohort_analysis.sql
 │
 └── README.md
 ```
