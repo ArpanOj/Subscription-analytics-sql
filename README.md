@@ -26,6 +26,16 @@ The schema simulates a subscription-based digital product with different acquisi
 
 ---
 
+## Analytical Workflow
+
+1. Data Generation & Simulation (Python)
+2. Data Modeling & KPI Engineering (SQL)
+3. Revenue Segmentation & Growth Analysis
+4. Churn & Lifetime Value Analysis
+5. Cohort Retention Analysis
+6. Dashboard Visualization
+
+
 ## Key Features
 
 ### 1. Lifecycle-Aware Subscription Modeling
