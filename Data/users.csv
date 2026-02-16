@@ -1,0 +1,3001 @@
+user_id,age,country,device,acquisition_channel,signup_date
+1,25,Thailand,Tablet,Facebook Ads,2023-11-24
+2,32,Singapore,Tablet,Organic,2023-05-06
+3,52,Thailand,Tablet,Referral,2023-12-13
+4,19,Thailand,Mobile,Google Ads,2023-01-17
+5,56,Thailand,Tablet,Google Ads,2023-09-16
+6,52,UK,Mobile,Referral,2023-11-29
+7,35,Australia,Mobile,Google Ads,2023-10-29
+8,45,USA,Desktop,Google Ads,2023-12-24
+9,39,Thailand,Mobile,Referral,2023-04-21
+10,40,Australia,Desktop,Affiliate,2023-02-19
+11,20,India,Desktop,Affiliate,2023-05-16
+12,42,Thailand,Tablet,Facebook Ads,2023-03-05
+13,57,Australia,Desktop,Affiliate,2023-11-18
+14,22,Thailand,Tablet,Google Ads,2023-04-09
+15,23,Australia,Mobile,Organic,2023-05-29
+16,35,UK,Tablet,Facebook Ads,2023-07-14
+17,41,USA,Mobile,Facebook Ads,2023-03-25
+18,59,Thailand,Tablet,Google Ads,2023-12-26
+19,33,Singapore,Desktop,Referral,2023-10-01
+20,58,India,Tablet,Google Ads,2023-05-19
+21,38,Australia,Mobile,Google Ads,2023-12-17
+22,38,UK,Desktop,Organic,2023-01-17
+23,54,India,Desktop,Google Ads,2023-04-19
+24,49,UK,Tablet,Referral,2023-12-02
+25,34,Singapore,Mobile,Affiliate,2023-03-15
+26,34,India,Tablet,Referral,2023-10-03
+27,43,USA,Mobile,Google Ads,2023-10-26
+28,49,Thailand,Mobile,Organic,2023-09-18
+29,58,Singapore,Tablet,Referral,2023-03-20
+30,22,UK,Desktop,Affiliate,2023-11-02
+31,51,USA,Tablet,Organic,2023-08-28
+32,25,India,Tablet,Facebook Ads,2023-12-15
+33,39,Thailand,Desktop,Referral,2023-11-25
+34,47,Thailand,Tablet,Facebook Ads,2023-03-22
+35,29,Germany,Mobile,Facebook Ads,2023-09-14
+36,50,Germany,Mobile,Google Ads,2023-11-24
+37,28,Germany,Tablet,Organic,2023-07-11
+38,38,UK,Mobile,Organic,2023-11-03
+39,37,Singapore,Mobile,Google Ads,2023-07-05
+40,23,Thailand,Tablet,Referral,2023-10-18
+41,52,Australia,Mobile,Google Ads,2023-02-05
+42,48,Germany,Mobile,Facebook Ads,2023-12-04
+43,56,UK,Mobile,Affiliate,2023-09-28
+44,30,India,Desktop,Referral,2023-12-20
+45,59,USA,Desktop,Affiliate,2023-12-10
+46,25,Singapore,Mobile,Organic,2023-08-20
+47,19,Germany,Tablet,Google Ads,2023-06-23
+48,32,Thailand,Mobile,Organic,2023-10-29
+49,22,Thailand,Desktop,Organic,2023-04-28
+50,33,USA,Tablet,Referral,2023-09-21
+51,52,Singapore,Tablet,Affiliate,2023-04-20
+52,48,Singapore,Desktop,Referral,2023-10-23
+53,24,Thailand,Tablet,Referral,2023-04-08
+54,45,UK,Desktop,Organic,2023-07-01
+55,59,India,Mobile,Organic,2023-12-11
+56,39,Australia,Mobile,Google Ads,2023-07-26
+57,30,Germany,Desktop,Google Ads,2023-04-09
+58,29,USA,Desktop,Google Ads,2023-08-05
+59,46,Australia,Tablet,Organic,2023-02-08
+60,59,Germany,Mobile,Organic,2023-01-26
+61,28,UK,Desktop,Referral,2023-05-02
+62,43,Thailand,Mobile,Referral,2023-04-20
+63,42,USA,Desktop,Facebook Ads,2023-01-02
+64,53,India,Tablet,Referral,2023-08-05
+65,30,USA,Mobile,Organic,2023-03-21
+66,52,Thailand,Tablet,Facebook Ads,2023-10-24
+67,21,Germany,Desktop,Affiliate,2023-01-30
+68,28,Thailand,Tablet,Organic,2023-09-29
+69,22,Germany,Mobile,Google Ads,2023-04-06
+70,25,Germany,Mobile,Affiliate,2023-07-26
+71,20,Germany,Mobile,Referral,2023-11-01
+72,55,Germany,Tablet,Facebook Ads,2023-12-03
+73,31,India,Tablet,Facebook Ads,2023-05-14
+74,34,UK,Mobile,Facebook Ads,2023-05-03
+75,38,Australia,Mobile,Organic,2023-08-23
+76,57,Germany,Mobile,Organic,2023-08-23
+77,31,Germany,Desktop,Google Ads,2023-10-03
+78,22,Singapore,Desktop,Facebook Ads,2023-06-28
+79,46,Australia,Tablet,Facebook Ads,2023-03-22
+80,59,Germany,Mobile,Affiliate,2023-11-10
+81,60,Thailand,Mobile,Facebook Ads,2023-06-03
+82,24,India,Tablet,Google Ads,2023-03-01
+83,36,Germany,Mobile,Facebook Ads,2023-05-20
+84,58,Australia,Desktop,Affiliate,2023-04-15
+85,34,Australia,Mobile,Organic,2023-09-08
+86,45,Australia,Desktop,Organic,2023-11-21
+87,39,Australia,Mobile,Facebook Ads,2023-01-02
+88,46,Germany,Tablet,Referral,2023-03-24
+89,18,Thailand,Mobile,Google Ads,2023-10-15
+90,20,Australia,Desktop,Affiliate,2023-10-07
+91,27,UK,Mobile,Organic,2023-10-10
+92,41,Australia,Mobile,Facebook Ads,2023-06-07
+93,33,India,Mobile,Facebook Ads,2023-04-18
+94,44,Germany,Tablet,Google Ads,2023-10-14
+95,28,Australia,Mobile,Referral,2023-05-02
+96,29,India,Desktop,Referral,2023-01-13
+97,33,USA,Mobile,Organic,2023-12-09
+98,20,Australia,Desktop,Google Ads,2023-07-15
+99,47,USA,Desktop,Google Ads,2023-04-13
+100,19,India,Mobile,Referral,2023-04-25
+101,35,Australia,Mobile,Facebook Ads,2023-06-18
+102,59,Germany,Desktop,Affiliate,2023-06-29
+103,19,Thailand,Desktop,Google Ads,2023-06-19
+104,34,Thailand,Mobile,Affiliate,2023-10-25
+105,40,India,Desktop,Referral,2023-08-11
+106,50,Thailand,Desktop,Affiliate,2023-11-07
+107,34,Thailand,Tablet,Referral,2023-04-08
+108,51,Australia,Tablet,Google Ads,2023-01-01
+109,45,Thailand,Tablet,Facebook Ads,2023-07-06
+110,38,India,Mobile,Facebook Ads,2023-11-16
+111,37,India,Desktop,Facebook Ads,2023-09-17
+112,36,Germany,Mobile,Google Ads,2023-07-26
+113,60,UK,Tablet,Google Ads,2023-08-04
+114,54,USA,Desktop,Affiliate,2023-11-12
+115,37,USA,Mobile,Referral,2023-01-01
+116,56,India,Desktop,Referral,2023-10-24
+117,46,India,Mobile,Affiliate,2023-08-15
+118,28,India,Mobile,Facebook Ads,2023-08-31
+119,60,India,Tablet,Facebook Ads,2023-09-21
+120,33,India,Desktop,Google Ads,2023-02-17
+121,27,Thailand,Mobile,Google Ads,2023-04-12
+122,57,Australia,Mobile,Referral,2023-09-01
+123,58,Germany,Mobile,Referral,2023-08-01
+124,43,Singapore,Mobile,Organic,2023-09-11
+125,45,Singapore,Mobile,Affiliate,2023-02-24
+126,21,Germany,Mobile,Organic,2023-08-26
+127,26,Australia,Desktop,Affiliate,2023-08-22
+128,56,USA,Desktop,Affiliate,2023-10-14
+129,45,Australia,Tablet,Referral,2023-09-16
+130,48,UK,Desktop,Google Ads,2023-03-23
+131,35,Australia,Tablet,Referral,2023-11-23
+132,33,USA,Desktop,Organic,2023-11-17
+133,36,Singapore,Desktop,Facebook Ads,2024-01-01
+134,52,Thailand,Mobile,Google Ads,2023-06-13
+135,42,India,Mobile,Google Ads,2023-04-29
+136,44,UK,Desktop,Affiliate,2023-02-02
+137,44,Thailand,Mobile,Referral,2023-08-27
+138,55,India,Mobile,Affiliate,2023-07-19
+139,48,Thailand,Desktop,Facebook Ads,2023-07-14
+140,44,Germany,Tablet,Affiliate,2023-07-19
+141,32,UK,Mobile,Facebook Ads,2023-11-05
+142,49,Thailand,Desktop,Facebook Ads,2023-08-12
+143,43,India,Mobile,Referral,2023-12-09
+144,57,Germany,Mobile,Referral,2023-03-07
+145,54,India,Mobile,Organic,2023-10-31
+146,45,Singapore,Desktop,Google Ads,2023-11-26
+147,34,UK,Desktop,Google Ads,2023-01-26
+148,38,USA,Desktop,Facebook Ads,2023-08-21
+149,34,Australia,Mobile,Referral,2023-08-04
+150,52,Thailand,Desktop,Google Ads,2023-01-10
+151,22,Australia,Tablet,Organic,2023-11-29
+152,33,Singapore,Mobile,Affiliate,2023-01-16
+153,33,Singapore,Desktop,Organic,2023-03-20
+154,31,UK,Tablet,Facebook Ads,2023-10-16
+155,28,Germany,Tablet,Organic,2023-07-08
+156,37,Thailand,Tablet,Organic,2023-03-25
+157,54,India,Desktop,Referral,2023-06-09
+158,22,Germany,Tablet,Google Ads,2023-04-12
+159,37,Australia,Tablet,Affiliate,2023-02-22
+160,54,Australia,Mobile,Facebook Ads,2023-03-03
+161,45,India,Desktop,Organic,2023-09-30
+162,59,USA,Mobile,Referral,2023-09-17
+163,24,UK,Desktop,Referral,2023-09-08
+164,27,UK,Mobile,Affiliate,2023-12-29
+165,35,Germany,Tablet,Referral,2023-11-30
+166,45,Australia,Tablet,Affiliate,2023-08-27
+167,38,Australia,Mobile,Organic,2023-05-18
+168,46,Singapore,Desktop,Affiliate,2023-05-23
+169,60,UK,Desktop,Organic,2023-11-09
+170,38,Singapore,Desktop,Google Ads,2023-09-11
+171,34,USA,Desktop,Affiliate,2023-07-01
+172,35,Germany,Mobile,Affiliate,2023-12-26
+173,23,Singapore,Tablet,Referral,2023-04-08
+174,53,Australia,Mobile,Referral,2023-09-08
+175,49,UK,Mobile,Organic,2023-11-27
+176,32,UK,Tablet,Google Ads,2023-05-31
+177,60,Germany,Desktop,Referral,2023-06-06
+178,51,USA,Desktop,Affiliate,2023-10-11
+179,40,India,Desktop,Facebook Ads,2023-06-19
+180,34,Singapore,Mobile,Google Ads,2023-06-06
+181,25,India,Tablet,Google Ads,2023-06-11
+182,31,India,Desktop,Facebook Ads,2023-04-09
+183,51,Germany,Desktop,Organic,2023-10-29
+184,36,Singapore,Desktop,Google Ads,2023-04-10
+185,18,India,Tablet,Google Ads,2023-06-04
+186,20,Thailand,Tablet,Facebook Ads,2023-05-21
+187,26,India,Desktop,Organic,2023-12-24
+188,54,USA,Desktop,Referral,2023-01-07
+189,39,Singapore,Mobile,Facebook Ads,2023-08-14
+190,25,Australia,Mobile,Referral,2023-09-02
+191,22,Germany,Tablet,Organic,2023-09-09
+192,27,Australia,Tablet,Facebook Ads,2023-03-19
+193,33,Thailand,Tablet,Referral,2023-02-13
+194,56,Australia,Tablet,Google Ads,2023-11-07
+195,42,UK,Desktop,Facebook Ads,2023-09-25
+196,45,USA,Tablet,Affiliate,2023-10-29
+197,57,India,Mobile,Google Ads,2023-01-31
+198,31,USA,Tablet,Organic,2023-11-17
+199,33,Singapore,Tablet,Organic,2023-03-22
+200,18,UK,Desktop,Affiliate,2023-03-22
+201,36,Thailand,Mobile,Facebook Ads,2023-08-29
+202,36,India,Desktop,Organic,2023-12-28
+203,32,USA,Tablet,Affiliate,2023-12-18
+204,30,UK,Mobile,Affiliate,2023-12-05
+205,59,Singapore,Desktop,Google Ads,2023-04-26
+206,21,Singapore,Desktop,Affiliate,2023-02-06
+207,36,UK,Mobile,Referral,2023-10-19
+208,37,India,Desktop,Facebook Ads,2023-12-19
+209,52,UK,Desktop,Organic,2023-09-14
+210,20,UK,Tablet,Facebook Ads,2023-11-03
+211,34,Thailand,Mobile,Google Ads,2023-11-06
+212,54,Germany,Mobile,Facebook Ads,2023-12-12
+213,20,Australia,Mobile,Referral,2023-10-23
+214,59,UK,Desktop,Google Ads,2023-09-23
+215,45,India,Desktop,Organic,2023-10-27
+216,40,UK,Desktop,Facebook Ads,2023-08-29
+217,24,Australia,Mobile,Facebook Ads,2023-12-10
+218,49,USA,Tablet,Referral,2023-07-30
+219,20,UK,Mobile,Facebook Ads,2023-10-09
+220,38,Thailand,Desktop,Affiliate,2023-05-10
+221,60,Australia,Tablet,Referral,2023-01-01
+222,21,Singapore,Tablet,Facebook Ads,2023-07-31
+223,49,India,Desktop,Organic,2023-11-15
+224,35,Germany,Mobile,Facebook Ads,2023-04-15
+225,49,Thailand,Mobile,Affiliate,2023-08-13
+226,28,USA,Tablet,Organic,2023-05-03
+227,44,Thailand,Mobile,Organic,2023-10-10
+228,25,India,Mobile,Referral,2023-08-25
+229,50,India,Desktop,Referral,2023-05-30
+230,48,Singapore,Desktop,Affiliate,2023-09-05
+231,42,Singapore,Tablet,Affiliate,2023-03-16
+232,22,USA,Desktop,Facebook Ads,2023-03-11
+233,35,Australia,Mobile,Facebook Ads,2023-09-17
+234,55,Germany,Tablet,Referral,2023-06-02
+235,46,Germany,Desktop,Facebook Ads,2023-03-18
+236,53,Australia,Tablet,Referral,2023-06-20
+237,38,Australia,Mobile,Google Ads,2023-08-22
+238,42,Singapore,Desktop,Organic,2023-10-20
+239,48,India,Desktop,Referral,2023-06-12
+240,59,Singapore,Desktop,Organic,2023-12-06
+241,50,Germany,Desktop,Organic,2023-03-06
+242,24,Germany,Desktop,Organic,2023-08-14
+243,44,Australia,Tablet,Google Ads,2023-03-15
+244,48,Australia,Desktop,Facebook Ads,2023-02-08
+245,43,India,Mobile,Facebook Ads,2023-11-16
+246,52,UK,Desktop,Referral,2023-12-12
+247,20,Germany,Mobile,Google Ads,2023-10-05
+248,36,Singapore,Tablet,Organic,2023-11-20
+249,24,Australia,Tablet,Organic,2023-08-11
+250,28,India,Desktop,Organic,2023-08-16
+251,38,Australia,Mobile,Facebook Ads,2023-01-24
+252,41,UK,Mobile,Google Ads,2023-07-03
+253,44,Germany,Tablet,Google Ads,2023-09-29
+254,29,Thailand,Tablet,Referral,2023-03-29
+255,33,UK,Tablet,Google Ads,2023-11-14
+256,47,India,Desktop,Referral,2023-04-29
+257,60,Thailand,Desktop,Facebook Ads,2023-05-11
+258,52,Singapore,Mobile,Referral,2023-12-13
+259,55,USA,Tablet,Referral,2023-06-26
+260,34,UK,Desktop,Google Ads,2023-12-20
+261,48,Thailand,Mobile,Referral,2023-07-16
+262,40,Germany,Desktop,Facebook Ads,2023-10-20
+263,60,UK,Desktop,Organic,2023-01-12
+264,21,Germany,Tablet,Referral,2023-10-17
+265,32,Germany,Desktop,Google Ads,2023-05-27
+266,30,Germany,Desktop,Google Ads,2023-11-22
+267,24,India,Tablet,Organic,2023-11-18
+268,46,Thailand,Tablet,Facebook Ads,2023-06-08
+269,23,USA,Desktop,Referral,2023-03-09
+270,30,Singapore,Tablet,Facebook Ads,2023-03-31
+271,50,USA,Mobile,Facebook Ads,2023-09-29
+272,36,India,Desktop,Organic,2023-09-04
+273,22,Singapore,Mobile,Referral,2023-08-28
+274,41,Thailand,Desktop,Organic,2023-10-13
+275,52,Thailand,Desktop,Facebook Ads,2023-05-16
+276,34,Germany,Desktop,Facebook Ads,2023-12-11
+277,32,UK,Mobile,Affiliate,2023-02-25
+278,38,Germany,Mobile,Organic,2023-10-15
+279,47,India,Desktop,Referral,2023-11-22
+280,26,Thailand,Mobile,Facebook Ads,2023-03-01
+281,25,Thailand,Mobile,Affiliate,2023-09-10
+282,42,UK,Desktop,Affiliate,2023-03-11
+283,55,India,Tablet,Google Ads,2023-08-03
+284,59,Thailand,Desktop,Affiliate,2023-08-01
+285,35,Thailand,Tablet,Facebook Ads,2023-07-28
+286,46,UK,Mobile,Facebook Ads,2023-04-22
+287,41,Germany,Tablet,Facebook Ads,2023-02-20
+288,43,USA,Mobile,Organic,2023-02-01
+289,23,India,Mobile,Affiliate,2023-08-21
+290,21,Australia,Desktop,Google Ads,2023-01-11
+291,54,Singapore,Mobile,Affiliate,2023-03-06
+292,55,Singapore,Mobile,Facebook Ads,2023-04-17
+293,56,Thailand,Desktop,Google Ads,2023-03-17
+294,52,USA,Mobile,Organic,2023-03-08
+295,19,Singapore,Mobile,Facebook Ads,2023-12-05
+296,55,USA,Mobile,Google Ads,2023-05-02
+297,21,Singapore,Tablet,Referral,2023-05-16
+298,25,India,Mobile,Referral,2023-09-27
+299,41,Germany,Tablet,Organic,2023-08-18
+300,50,Singapore,Tablet,Organic,2023-08-20
+301,51,USA,Desktop,Organic,2023-12-04
+302,48,Australia,Desktop,Referral,2023-02-01
+303,24,UK,Tablet,Referral,2023-12-18
+304,23,USA,Tablet,Google Ads,2023-02-07
+305,26,USA,Tablet,Affiliate,2023-02-03
+306,38,UK,Tablet,Affiliate,2023-10-08
+307,47,Germany,Tablet,Referral,2023-05-31
+308,25,Australia,Tablet,Affiliate,2023-02-20
+309,45,UK,Mobile,Referral,2023-04-21
+310,47,UK,Desktop,Organic,2023-06-23
+311,45,USA,Tablet,Facebook Ads,2023-06-10
+312,27,India,Desktop,Organic,2023-07-11
+313,23,Thailand,Desktop,Organic,2023-02-16
+314,26,Germany,Mobile,Affiliate,2023-07-10
+315,53,USA,Tablet,Organic,2023-10-15
+316,40,Australia,Tablet,Referral,2023-07-30
+317,36,Germany,Desktop,Facebook Ads,2023-01-27
+318,54,Germany,Mobile,Google Ads,2023-02-23
+319,48,Singapore,Mobile,Facebook Ads,2023-12-03
+320,41,Thailand,Desktop,Affiliate,2023-10-12
+321,45,Australia,Tablet,Affiliate,2023-04-26
+322,59,Germany,Mobile,Affiliate,2023-11-11
+323,35,Thailand,Mobile,Facebook Ads,2023-12-03
+324,37,USA,Desktop,Organic,2023-12-26
+325,27,Germany,Tablet,Referral,2023-04-03
+326,27,India,Tablet,Organic,2023-02-05
+327,51,Singapore,Desktop,Referral,2023-02-16
+328,39,Singapore,Desktop,Facebook Ads,2023-08-21
+329,54,Germany,Mobile,Organic,2023-06-16
+330,28,Australia,Tablet,Organic,2023-03-21
+331,23,USA,Desktop,Referral,2023-12-12
+332,56,UK,Desktop,Facebook Ads,2023-09-06
+333,50,Thailand,Desktop,Referral,2023-04-21
+334,36,India,Tablet,Affiliate,2023-02-26
+335,51,India,Desktop,Organic,2023-09-07
+336,43,Germany,Mobile,Organic,2023-04-23
+337,37,Singapore,Mobile,Facebook Ads,2023-04-15
+338,38,Thailand,Mobile,Referral,2023-05-29
+339,29,Singapore,Desktop,Affiliate,2023-08-09
+340,32,Germany,Tablet,Facebook Ads,2023-12-27
+341,43,Australia,Tablet,Organic,2023-02-06
+342,19,UK,Mobile,Facebook Ads,2023-08-12
+343,45,Germany,Desktop,Referral,2023-10-22
+344,25,UK,Mobile,Facebook Ads,2023-05-29
+345,57,UK,Tablet,Facebook Ads,2023-03-29
+346,45,Australia,Mobile,Google Ads,2023-02-15
+347,55,UK,Tablet,Organic,2023-08-12
+348,37,India,Desktop,Google Ads,2023-07-22
+349,28,Thailand,Tablet,Organic,2023-06-20
+350,50,Singapore,Desktop,Facebook Ads,2023-09-29
+351,27,Singapore,Mobile,Google Ads,2023-11-27
+352,30,Singapore,Tablet,Google Ads,2023-05-12
+353,22,Singapore,Tablet,Referral,2023-12-02
+354,54,Australia,Tablet,Referral,2023-08-26
+355,54,India,Tablet,Affiliate,2023-12-15
+356,58,USA,Mobile,Referral,2023-06-15
+357,48,UK,Tablet,Facebook Ads,2023-02-04
+358,55,Thailand,Desktop,Affiliate,2023-05-21
+359,37,UK,Desktop,Organic,2023-02-07
+360,41,Australia,Desktop,Organic,2023-01-30
+361,23,Germany,Tablet,Affiliate,2023-11-27
+362,47,Germany,Tablet,Organic,2023-07-16
+363,54,India,Mobile,Facebook Ads,2023-08-19
+364,48,Germany,Mobile,Organic,2023-11-06
+365,24,Australia,Desktop,Organic,2023-08-19
+366,59,Singapore,Mobile,Google Ads,2023-09-16
+367,46,UK,Tablet,Affiliate,2023-12-29
+368,28,USA,Desktop,Facebook Ads,2023-11-09
+369,44,Australia,Desktop,Affiliate,2023-07-18
+370,58,India,Desktop,Organic,2023-01-27
+371,24,Germany,Tablet,Referral,2023-06-18
+372,34,India,Tablet,Affiliate,2023-05-26
+373,39,Thailand,Tablet,Google Ads,2023-03-18
+374,37,India,Tablet,Referral,2023-06-29
+375,56,India,Mobile,Facebook Ads,2023-03-08
+376,42,India,Desktop,Google Ads,2023-10-14
+377,51,Thailand,Tablet,Referral,2023-12-10
+378,41,Thailand,Desktop,Facebook Ads,2023-09-18
+379,31,USA,Desktop,Google Ads,2023-04-03
+380,26,Singapore,Mobile,Facebook Ads,2023-04-26
+381,50,Australia,Tablet,Affiliate,2023-02-21
+382,60,USA,Tablet,Google Ads,2023-01-20
+383,42,Singapore,Mobile,Google Ads,2023-11-02
+384,57,Australia,Mobile,Referral,2023-12-21
+385,44,USA,Tablet,Google Ads,2023-01-23
+386,57,USA,Tablet,Referral,2023-08-16
+387,52,Singapore,Desktop,Referral,2023-04-30
+388,41,India,Tablet,Referral,2023-04-10
+389,36,Australia,Desktop,Affiliate,2023-08-25
+390,44,Singapore,Mobile,Affiliate,2023-09-28
+391,34,Thailand,Tablet,Referral,2023-03-12
+392,53,Thailand,Tablet,Affiliate,2023-07-10
+393,36,Thailand,Mobile,Facebook Ads,2023-03-05
+394,50,Singapore,Desktop,Organic,2023-08-19
+395,46,USA,Mobile,Referral,2023-04-24
+396,43,Germany,Desktop,Google Ads,2023-01-28
+397,23,USA,Mobile,Organic,2023-07-17
+398,24,Australia,Tablet,Facebook Ads,2023-06-13
+399,26,Thailand,Desktop,Referral,2023-03-16
+400,26,Australia,Tablet,Referral,2023-12-23
+401,57,Thailand,Mobile,Organic,2023-08-18
+402,31,Australia,Mobile,Affiliate,2023-05-12
+403,51,UK,Mobile,Facebook Ads,2023-11-08
+404,37,Thailand,Mobile,Google Ads,2023-05-02
+405,58,Australia,Tablet,Referral,2023-08-03
+406,25,Australia,Desktop,Affiliate,2023-02-02
+407,19,India,Tablet,Affiliate,2023-10-02
+408,27,USA,Desktop,Organic,2023-05-04
+409,40,Singapore,Tablet,Referral,2023-11-11
+410,60,India,Mobile,Affiliate,2023-04-06
+411,22,Germany,Tablet,Affiliate,2023-07-04
+412,53,Thailand,Desktop,Referral,2023-09-17
+413,58,UK,Desktop,Facebook Ads,2023-01-23
+414,40,Australia,Mobile,Facebook Ads,2023-01-09
+415,60,India,Mobile,Affiliate,2023-05-04
+416,26,Thailand,Desktop,Affiliate,2023-06-20
+417,59,Singapore,Tablet,Referral,2023-06-23
+418,48,India,Mobile,Google Ads,2023-12-23
+419,47,Thailand,Desktop,Google Ads,2023-02-02
+420,30,Thailand,Desktop,Facebook Ads,2023-01-23
+421,43,Australia,Tablet,Referral,2023-09-21
+422,20,Australia,Tablet,Google Ads,2023-05-10
+423,40,Australia,Mobile,Facebook Ads,2023-05-27
+424,25,Australia,Desktop,Referral,2023-05-20
+425,46,UK,Desktop,Google Ads,2023-07-24
+426,49,USA,Tablet,Facebook Ads,2023-09-12
+427,45,Thailand,Desktop,Affiliate,2023-02-12
+428,52,USA,Desktop,Organic,2023-04-03
+429,38,India,Desktop,Facebook Ads,2023-02-10
+430,56,India,Desktop,Google Ads,2023-08-17
+431,46,USA,Desktop,Organic,2023-12-20
+432,57,UK,Desktop,Organic,2023-06-30
+433,60,India,Desktop,Facebook Ads,2023-02-08
+434,28,Thailand,Mobile,Affiliate,2023-09-20
+435,46,Thailand,Mobile,Organic,2023-12-14
+436,59,USA,Desktop,Referral,2023-05-01
+437,20,Germany,Mobile,Referral,2023-10-18
+438,41,UK,Mobile,Affiliate,2023-07-09
+439,51,USA,Desktop,Facebook Ads,2023-03-12
+440,35,Singapore,Mobile,Organic,2023-11-29
+441,49,Germany,Desktop,Affiliate,2023-04-06
+442,34,Australia,Desktop,Referral,2023-03-02
+443,57,USA,Tablet,Referral,2023-04-20
+444,25,Singapore,Mobile,Referral,2023-04-13
+445,46,Thailand,Tablet,Facebook Ads,2023-03-30
+446,40,India,Mobile,Affiliate,2023-12-08
+447,36,USA,Mobile,Google Ads,2023-10-05
+448,50,Singapore,Mobile,Google Ads,2023-07-05
+449,33,Australia,Desktop,Organic,2023-03-13
+450,53,Germany,Desktop,Referral,2023-07-04
+451,26,Germany,Mobile,Organic,2023-10-10
+452,43,India,Tablet,Referral,2023-06-08
+453,44,Australia,Desktop,Affiliate,2023-09-27
+454,26,USA,Tablet,Organic,2023-02-07
+455,47,India,Tablet,Facebook Ads,2023-08-19
+456,53,India,Tablet,Google Ads,2023-03-07
+457,45,Germany,Mobile,Organic,2023-03-08
+458,27,USA,Mobile,Google Ads,2023-09-23
+459,32,USA,Tablet,Facebook Ads,2023-06-15
+460,34,Singapore,Tablet,Affiliate,2023-02-10
+461,26,India,Desktop,Affiliate,2023-05-21
+462,23,Germany,Tablet,Google Ads,2023-10-01
+463,55,Singapore,Mobile,Affiliate,2023-10-31
+464,39,Australia,Tablet,Organic,2023-11-06
+465,23,Thailand,Tablet,Affiliate,2023-01-15
+466,59,Singapore,Tablet,Referral,2023-05-16
+467,58,Thailand,Desktop,Affiliate,2023-11-13
+468,59,USA,Desktop,Google Ads,2023-05-29
+469,43,USA,Desktop,Organic,2023-12-17
+470,21,Singapore,Desktop,Referral,2023-12-19
+471,47,Singapore,Desktop,Affiliate,2023-09-05
+472,38,Australia,Tablet,Facebook Ads,2023-03-15
+473,43,Singapore,Desktop,Affiliate,2023-06-26
+474,24,USA,Mobile,Referral,2023-10-15
+475,35,UK,Mobile,Google Ads,2023-03-04
+476,21,USA,Desktop,Affiliate,2023-02-19
+477,33,Australia,Mobile,Facebook Ads,2023-08-03
+478,38,Singapore,Mobile,Referral,2023-10-23
+479,47,UK,Desktop,Referral,2023-09-21
+480,23,UK,Tablet,Referral,2023-01-12
+481,31,Germany,Desktop,Organic,2023-05-04
+482,36,UK,Tablet,Referral,2023-01-26
+483,52,Thailand,Mobile,Referral,2023-05-27
+484,34,India,Desktop,Referral,2023-03-10
+485,20,UK,Mobile,Affiliate,2023-07-07
+486,30,USA,Tablet,Facebook Ads,2023-10-15
+487,42,Germany,Desktop,Affiliate,2023-02-07
+488,57,India,Tablet,Organic,2023-05-24
+489,24,UK,Desktop,Facebook Ads,2023-03-07
+490,41,Australia,Mobile,Google Ads,2023-10-13
+491,50,UK,Tablet,Organic,2023-11-05
+492,20,Singapore,Tablet,Facebook Ads,2023-01-24
+493,51,UK,Mobile,Affiliate,2023-08-31
+494,26,USA,Tablet,Facebook Ads,2023-09-21
+495,43,Germany,Tablet,Facebook Ads,2023-03-25
+496,39,Germany,Tablet,Affiliate,2023-10-31
+497,54,USA,Desktop,Organic,2023-09-08
+498,39,India,Mobile,Referral,2023-07-08
+499,37,Australia,Tablet,Organic,2023-10-26
+500,48,USA,Tablet,Affiliate,2023-11-02
+501,32,India,Mobile,Affiliate,2023-10-23
+502,28,Germany,Tablet,Affiliate,2023-09-03
+503,27,Australia,Tablet,Google Ads,2023-07-14
+504,54,India,Mobile,Google Ads,2023-01-17
+505,46,USA,Desktop,Google Ads,2023-01-10
+506,31,UK,Tablet,Affiliate,2023-07-31
+507,21,India,Mobile,Affiliate,2023-08-30
+508,53,USA,Tablet,Referral,2023-04-17
+509,42,USA,Mobile,Referral,2023-09-27
+510,39,Germany,Desktop,Facebook Ads,2023-09-30
+511,48,Singapore,Mobile,Facebook Ads,2023-11-09
+512,37,Singapore,Desktop,Facebook Ads,2023-10-13
+513,31,India,Tablet,Referral,2023-12-27
+514,48,USA,Tablet,Facebook Ads,2023-06-12
+515,25,Germany,Tablet,Affiliate,2023-05-28
+516,43,Australia,Desktop,Google Ads,2023-07-14
+517,20,USA,Tablet,Organic,2023-05-29
+518,46,India,Desktop,Referral,2023-06-27
+519,30,Australia,Tablet,Facebook Ads,2023-04-20
+520,35,Singapore,Mobile,Affiliate,2023-10-15
+521,33,Singapore,Mobile,Affiliate,2023-10-28
+522,58,Singapore,Mobile,Organic,2023-04-26
+523,39,India,Desktop,Organic,2023-07-31
+524,26,Thailand,Tablet,Google Ads,2023-12-15
+525,59,UK,Desktop,Google Ads,2023-07-28
+526,38,USA,Tablet,Organic,2023-05-28
+527,59,Germany,Mobile,Affiliate,2023-02-15
+528,29,UK,Mobile,Organic,2023-01-20
+529,49,Singapore,Tablet,Facebook Ads,2023-07-23
+530,18,USA,Tablet,Affiliate,2023-01-20
+531,39,USA,Desktop,Affiliate,2023-02-24
+532,49,Singapore,Tablet,Referral,2023-09-26
+533,30,Australia,Mobile,Facebook Ads,2023-05-20
+534,47,India,Desktop,Google Ads,2023-03-25
+535,39,Australia,Desktop,Affiliate,2023-01-08
+536,30,Singapore,Tablet,Referral,2023-12-12
+537,50,USA,Mobile,Referral,2023-08-07
+538,24,Singapore,Mobile,Referral,2023-12-09
+539,33,Thailand,Desktop,Referral,2023-06-15
+540,46,Australia,Desktop,Facebook Ads,2023-05-01
+541,55,India,Tablet,Organic,2023-06-04
+542,59,USA,Tablet,Google Ads,2023-05-14
+543,60,Thailand,Desktop,Facebook Ads,2023-02-01
+544,43,India,Tablet,Facebook Ads,2023-03-23
+545,25,India,Desktop,Facebook Ads,2023-12-20
+546,32,Singapore,Mobile,Referral,2023-11-11
+547,47,India,Tablet,Facebook Ads,2023-03-20
+548,53,UK,Tablet,Google Ads,2023-08-01
+549,56,Australia,Mobile,Affiliate,2023-05-07
+550,51,India,Desktop,Organic,2023-08-17
+551,25,Thailand,Tablet,Affiliate,2023-10-16
+552,54,Germany,Mobile,Google Ads,2023-04-14
+553,51,UK,Mobile,Google Ads,2023-06-17
+554,49,Thailand,Tablet,Referral,2023-10-26
+555,47,Singapore,Tablet,Referral,2023-01-29
+556,54,Thailand,Tablet,Referral,2023-08-22
+557,37,India,Mobile,Referral,2023-12-11
+558,18,India,Mobile,Affiliate,2023-05-11
+559,20,UK,Desktop,Organic,2023-02-07
+560,21,Thailand,Desktop,Organic,2023-10-05
+561,44,Singapore,Mobile,Referral,2023-05-27
+562,42,UK,Desktop,Referral,2023-07-11
+563,60,Australia,Tablet,Google Ads,2023-02-11
+564,40,Thailand,Mobile,Affiliate,2023-12-01
+565,51,Singapore,Tablet,Google Ads,2023-07-21
+566,19,USA,Desktop,Affiliate,2023-01-02
+567,52,UK,Mobile,Google Ads,2023-08-06
+568,40,Singapore,Desktop,Google Ads,2023-08-24
+569,20,Australia,Tablet,Referral,2023-02-27
+570,19,Singapore,Mobile,Organic,2023-11-11
+571,56,Thailand,Desktop,Affiliate,2023-02-21
+572,21,Singapore,Tablet,Organic,2023-12-11
+573,46,Singapore,Tablet,Google Ads,2023-07-25
+574,26,Germany,Desktop,Google Ads,2023-01-29
+575,38,Germany,Tablet,Facebook Ads,2023-10-22
+576,37,Singapore,Tablet,Affiliate,2023-05-02
+577,44,USA,Desktop,Organic,2023-04-24
+578,55,India,Mobile,Referral,2023-10-13
+579,49,Thailand,Desktop,Referral,2023-10-12
+580,38,India,Desktop,Referral,2023-09-26
+581,37,UK,Mobile,Affiliate,2023-03-18
+582,33,Australia,Mobile,Facebook Ads,2023-08-31
+583,27,Australia,Desktop,Organic,2023-12-29
+584,44,UK,Tablet,Affiliate,2023-10-15
+585,42,Singapore,Desktop,Google Ads,2023-03-10
+586,59,Thailand,Desktop,Facebook Ads,2023-06-19
+587,52,India,Mobile,Organic,2023-02-17
+588,42,India,Tablet,Affiliate,2023-05-18
+589,22,Singapore,Tablet,Affiliate,2023-01-21
+590,48,Singapore,Desktop,Facebook Ads,2023-04-22
+591,31,Singapore,Tablet,Organic,2023-01-08
+592,33,India,Tablet,Google Ads,2023-09-03
+593,33,Germany,Desktop,Facebook Ads,2023-07-23
+594,47,Germany,Tablet,Facebook Ads,2023-07-14
+595,34,USA,Tablet,Referral,2023-06-07
+596,24,Australia,Tablet,Referral,2023-08-27
+597,31,USA,Desktop,Referral,2023-06-13
+598,54,Australia,Mobile,Google Ads,2023-01-24
+599,34,Germany,Tablet,Affiliate,2023-01-09
+600,36,Singapore,Mobile,Facebook Ads,2023-08-02
+601,42,Germany,Mobile,Referral,2023-04-28
+602,59,India,Desktop,Facebook Ads,2023-10-09
+603,59,India,Desktop,Referral,2023-09-08
+604,40,Singapore,Mobile,Affiliate,2023-03-28
+605,29,Germany,Tablet,Organic,2023-09-08
+606,20,Australia,Mobile,Organic,2023-09-26
+607,44,Singapore,Tablet,Google Ads,2023-01-04
+608,27,Thailand,Mobile,Affiliate,2023-02-04
+609,41,Thailand,Tablet,Affiliate,2023-08-22
+610,60,UK,Mobile,Organic,2023-09-05
+611,53,UK,Mobile,Organic,2023-09-30
+612,35,Germany,Desktop,Organic,2023-09-29
+613,45,Australia,Mobile,Organic,2023-09-15
+614,51,Singapore,Mobile,Google Ads,2023-02-19
+615,51,USA,Desktop,Facebook Ads,2023-11-14
+616,23,USA,Desktop,Referral,2023-07-23
+617,33,India,Mobile,Facebook Ads,2023-10-17
+618,23,India,Tablet,Organic,2023-12-17
+619,43,UK,Desktop,Affiliate,2023-02-17
+620,21,India,Mobile,Google Ads,2023-09-01
+621,49,Australia,Desktop,Facebook Ads,2023-02-12
+622,24,Germany,Mobile,Google Ads,2023-10-17
+623,54,UK,Desktop,Organic,2023-04-19
+624,35,Germany,Tablet,Organic,2023-02-08
+625,38,Thailand,Mobile,Affiliate,2023-04-02
+626,43,Thailand,Desktop,Google Ads,2023-03-15
+627,33,Germany,Desktop,Affiliate,2023-10-16
+628,42,Australia,Tablet,Google Ads,2023-06-19
+629,23,Germany,Tablet,Facebook Ads,2023-12-19
+630,24,UK,Mobile,Organic,2023-01-28
+631,56,Australia,Tablet,Affiliate,2023-06-24
+632,38,Thailand,Tablet,Facebook Ads,2023-07-23
+633,49,Singapore,Desktop,Affiliate,2023-08-19
+634,45,Singapore,Tablet,Affiliate,2023-07-12
+635,42,Thailand,Tablet,Facebook Ads,2023-12-05
+636,22,Thailand,Desktop,Google Ads,2023-05-07
+637,58,Singapore,Tablet,Referral,2023-07-14
+638,41,Thailand,Mobile,Organic,2023-06-12
+639,46,USA,Desktop,Organic,2023-06-07
+640,23,Singapore,Desktop,Referral,2023-03-09
+641,53,Germany,Desktop,Organic,2023-10-13
+642,23,USA,Tablet,Organic,2023-01-14
+643,56,Australia,Desktop,Referral,2023-11-02
+644,36,UK,Desktop,Organic,2023-01-07
+645,33,Germany,Tablet,Google Ads,2023-10-14
+646,42,Singapore,Mobile,Facebook Ads,2023-12-17
+647,35,UK,Mobile,Organic,2023-06-04
+648,45,USA,Desktop,Facebook Ads,2023-03-27
+649,22,USA,Desktop,Google Ads,2023-09-05
+650,49,Germany,Tablet,Google Ads,2023-11-17
+651,24,Singapore,Desktop,Organic,2023-08-23
+652,39,Australia,Tablet,Referral,2023-07-22
+653,46,USA,Desktop,Affiliate,2023-06-18
+654,37,USA,Tablet,Google Ads,2023-03-11
+655,38,Singapore,Desktop,Facebook Ads,2023-09-03
+656,58,UK,Tablet,Google Ads,2023-05-30
+657,42,USA,Desktop,Facebook Ads,2023-06-16
+658,54,Singapore,Tablet,Affiliate,2023-02-28
+659,53,Thailand,Tablet,Referral,2023-04-03
+660,31,UK,Desktop,Organic,2023-12-29
+661,49,Singapore,Tablet,Facebook Ads,2023-07-29
+662,34,India,Mobile,Referral,2023-05-04
+663,22,UK,Tablet,Referral,2023-07-13
+664,43,Germany,Tablet,Referral,2023-10-26
+665,20,Australia,Desktop,Affiliate,2023-10-06
+666,58,Thailand,Mobile,Google Ads,2023-11-01
+667,60,USA,Mobile,Affiliate,2023-12-03
+668,54,India,Tablet,Referral,2023-01-23
+669,45,Thailand,Mobile,Organic,2023-06-19
+670,32,Germany,Tablet,Affiliate,2023-05-13
+671,55,India,Tablet,Google Ads,2023-10-13
+672,41,UK,Desktop,Affiliate,2023-08-17
+673,50,Singapore,Desktop,Organic,2023-12-20
+674,24,USA,Desktop,Organic,2023-09-05
+675,27,USA,Desktop,Facebook Ads,2023-03-01
+676,31,Germany,Desktop,Facebook Ads,2023-08-22
+677,24,UK,Tablet,Referral,2023-09-01
+678,22,USA,Mobile,Organic,2023-06-13
+679,39,India,Mobile,Google Ads,2023-01-12
+680,51,Singapore,Tablet,Google Ads,2023-05-05
+681,53,UK,Desktop,Google Ads,2023-06-19
+682,58,Singapore,Mobile,Referral,2023-07-27
+683,19,India,Tablet,Google Ads,2023-07-22
+684,55,UK,Desktop,Organic,2023-08-19
+685,31,Singapore,Desktop,Organic,2023-12-27
+686,24,Australia,Tablet,Google Ads,2023-10-23
+687,38,Singapore,Desktop,Organic,2023-07-07
+688,60,Australia,Desktop,Affiliate,2023-05-15
+689,38,Germany,Desktop,Affiliate,2023-11-24
+690,55,Thailand,Desktop,Facebook Ads,2023-07-20
+691,57,Singapore,Tablet,Facebook Ads,2023-08-23
+692,55,Thailand,Tablet,Google Ads,2023-11-11
+693,25,Singapore,Desktop,Organic,2023-06-10
+694,41,India,Mobile,Affiliate,2023-04-04
+695,44,Germany,Mobile,Affiliate,2023-07-18
+696,45,Singapore,Desktop,Affiliate,2023-07-16
+697,59,Singapore,Tablet,Google Ads,2023-12-22
+698,36,Singapore,Mobile,Facebook Ads,2023-09-08
+699,57,Thailand,Desktop,Organic,2023-08-19
+700,26,Singapore,Desktop,Affiliate,2023-09-06
+701,59,UK,Desktop,Referral,2023-09-16
+702,46,UK,Mobile,Organic,2023-08-01
+703,19,Australia,Mobile,Facebook Ads,2023-10-17
+704,35,Singapore,Tablet,Facebook Ads,2023-01-17
+705,47,Germany,Tablet,Referral,2023-03-28
+706,50,Thailand,Tablet,Organic,2023-10-09
+707,52,Australia,Desktop,Affiliate,2023-05-18
+708,46,Germany,Mobile,Referral,2023-01-22
+709,59,Australia,Mobile,Facebook Ads,2023-02-22
+710,46,USA,Desktop,Organic,2023-01-17
+711,25,Australia,Mobile,Google Ads,2023-08-13
+712,40,Australia,Tablet,Affiliate,2023-10-29
+713,45,Singapore,Tablet,Google Ads,2023-11-20
+714,31,Australia,Mobile,Affiliate,2023-04-16
+715,52,USA,Tablet,Affiliate,2023-06-29
+716,38,India,Desktop,Facebook Ads,2023-03-28
+717,35,Australia,Tablet,Organic,2023-10-21
+718,44,Thailand,Desktop,Google Ads,2023-03-11
+719,26,Singapore,Mobile,Facebook Ads,2023-12-26
+720,43,UK,Mobile,Affiliate,2023-05-07
+721,35,India,Desktop,Referral,2023-11-20
+722,22,India,Mobile,Referral,2023-08-20
+723,35,India,Desktop,Referral,2023-09-21
+724,38,Germany,Mobile,Organic,2023-09-07
+725,58,India,Tablet,Facebook Ads,2023-08-23
+726,52,UK,Mobile,Referral,2023-02-02
+727,49,USA,Desktop,Facebook Ads,2023-04-19
+728,53,Germany,Mobile,Affiliate,2023-06-22
+729,39,India,Mobile,Organic,2023-09-06
+730,58,Australia,Desktop,Organic,2023-02-20
+731,28,UK,Desktop,Organic,2023-03-05
+732,30,India,Mobile,Facebook Ads,2023-08-08
+733,35,Thailand,Tablet,Facebook Ads,2023-03-23
+734,23,USA,Tablet,Google Ads,2023-05-09
+735,43,India,Desktop,Google Ads,2023-01-27
+736,59,Thailand,Tablet,Organic,2023-08-08
+737,31,UK,Mobile,Google Ads,2023-01-01
+738,32,Germany,Tablet,Referral,2023-10-31
+739,18,India,Desktop,Organic,2023-01-05
+740,26,UK,Mobile,Google Ads,2023-08-05
+741,23,India,Mobile,Organic,2023-07-16
+742,41,USA,Mobile,Referral,2023-06-10
+743,59,India,Mobile,Organic,2023-03-10
+744,54,Thailand,Tablet,Google Ads,2023-09-29
+745,40,India,Mobile,Google Ads,2023-08-14
+746,57,India,Desktop,Google Ads,2023-07-30
+747,24,Singapore,Mobile,Affiliate,2023-02-14
+748,40,UK,Desktop,Google Ads,2023-07-16
+749,35,India,Mobile,Google Ads,2023-05-07
+750,56,Germany,Tablet,Affiliate,2023-10-11
+751,19,Australia,Tablet,Facebook Ads,2023-05-26
+752,51,Germany,Tablet,Google Ads,2023-04-16
+753,36,India,Mobile,Google Ads,2023-07-20
+754,42,Thailand,Mobile,Referral,2023-09-11
+755,56,Thailand,Tablet,Organic,2023-11-23
+756,38,Singapore,Desktop,Affiliate,2023-07-04
+757,41,Germany,Tablet,Google Ads,2023-08-04
+758,22,Thailand,Tablet,Organic,2023-08-30
+759,34,Singapore,Mobile,Organic,2023-01-08
+760,50,USA,Tablet,Affiliate,2023-07-23
+761,45,India,Desktop,Organic,2023-08-01
+762,52,Germany,Tablet,Google Ads,2023-11-24
+763,23,USA,Mobile,Affiliate,2023-05-23
+764,27,Germany,Desktop,Referral,2023-04-15
+765,58,Australia,Tablet,Organic,2023-10-28
+766,45,India,Mobile,Organic,2023-06-08
+767,23,UK,Mobile,Referral,2023-05-06
+768,56,Thailand,Desktop,Google Ads,2023-11-10
+769,18,India,Mobile,Organic,2023-03-03
+770,49,USA,Tablet,Affiliate,2023-03-25
+771,28,USA,Mobile,Facebook Ads,2023-05-13
+772,19,USA,Desktop,Facebook Ads,2023-03-02
+773,22,USA,Tablet,Affiliate,2023-09-26
+774,22,UK,Desktop,Affiliate,2023-11-18
+775,21,UK,Tablet,Google Ads,2023-07-04
+776,28,USA,Mobile,Affiliate,2023-07-08
+777,25,Singapore,Tablet,Affiliate,2023-12-12
+778,20,Australia,Mobile,Google Ads,2023-01-02
+779,48,USA,Desktop,Google Ads,2023-01-24
+780,20,Germany,Tablet,Referral,2023-04-02
+781,38,Singapore,Desktop,Facebook Ads,2023-04-25
+782,22,Germany,Desktop,Organic,2023-05-19
+783,21,Singapore,Mobile,Affiliate,2023-09-15
+784,43,Thailand,Desktop,Facebook Ads,2023-01-24
+785,38,Thailand,Tablet,Referral,2023-06-09
+786,41,Singapore,Desktop,Affiliate,2023-01-05
+787,57,Singapore,Desktop,Facebook Ads,2023-06-05
+788,49,Australia,Mobile,Affiliate,2023-10-30
+789,27,Thailand,Desktop,Organic,2023-05-06
+790,52,USA,Tablet,Organic,2023-04-30
+791,18,Australia,Tablet,Referral,2023-06-21
+792,24,Singapore,Tablet,Google Ads,2023-06-07
+793,49,Thailand,Mobile,Facebook Ads,2023-08-03
+794,20,Singapore,Tablet,Referral,2023-02-17
+795,41,UK,Tablet,Organic,2023-12-25
+796,24,Germany,Mobile,Referral,2023-10-25
+797,55,Germany,Mobile,Referral,2023-02-08
+798,26,Singapore,Desktop,Facebook Ads,2023-12-06
+799,43,India,Tablet,Facebook Ads,2023-06-11
+800,46,USA,Mobile,Organic,2023-06-12
+801,26,Australia,Tablet,Organic,2023-04-14
+802,24,Singapore,Desktop,Referral,2023-03-21
+803,44,Thailand,Tablet,Facebook Ads,2023-06-10
+804,46,USA,Desktop,Facebook Ads,2023-04-17
+805,23,Singapore,Tablet,Facebook Ads,2023-03-03
+806,56,Thailand,Mobile,Facebook Ads,2023-12-27
+807,23,India,Mobile,Facebook Ads,2023-03-17
+808,50,Thailand,Tablet,Facebook Ads,2023-07-22
+809,29,Thailand,Desktop,Referral,2023-05-14
+810,53,Singapore,Mobile,Referral,2023-10-12
+811,26,Thailand,Mobile,Organic,2023-02-22
+812,26,Singapore,Desktop,Facebook Ads,2023-04-24
+813,58,India,Mobile,Affiliate,2023-12-18
+814,34,Australia,Mobile,Organic,2023-10-28
+815,30,India,Desktop,Google Ads,2023-02-03
+816,39,Thailand,Mobile,Referral,2023-02-17
+817,28,Germany,Desktop,Referral,2023-01-26
+818,19,UK,Tablet,Referral,2023-09-12
+819,40,Singapore,Mobile,Facebook Ads,2023-03-30
+820,46,Singapore,Mobile,Affiliate,2023-05-24
+821,57,Singapore,Tablet,Facebook Ads,2023-11-14
+822,44,Germany,Desktop,Organic,2023-09-13
+823,35,UK,Mobile,Referral,2023-02-14
+824,59,Australia,Tablet,Google Ads,2023-04-13
+825,52,Australia,Mobile,Referral,2023-11-19
+826,40,UK,Tablet,Referral,2024-01-01
+827,54,Germany,Desktop,Referral,2023-06-26
+828,29,Thailand,Desktop,Affiliate,2023-05-19
+829,19,Australia,Desktop,Organic,2023-04-23
+830,51,USA,Tablet,Google Ads,2023-08-30
+831,24,Singapore,Tablet,Google Ads,2023-03-23
+832,52,Australia,Tablet,Organic,2023-05-17
+833,54,Australia,Desktop,Facebook Ads,2023-04-23
+834,29,Singapore,Tablet,Facebook Ads,2023-03-30
+835,40,Germany,Mobile,Facebook Ads,2023-12-24
+836,54,Singapore,Tablet,Google Ads,2023-10-18
+837,52,USA,Mobile,Referral,2023-09-10
+838,23,Thailand,Mobile,Affiliate,2023-01-20
+839,19,Germany,Desktop,Organic,2023-04-23
+840,57,Singapore,Mobile,Facebook Ads,2023-06-19
+841,38,Thailand,Mobile,Google Ads,2023-04-01
+842,27,Australia,Mobile,Affiliate,2023-10-28
+843,22,USA,Tablet,Referral,2023-07-06
+844,24,USA,Desktop,Facebook Ads,2023-10-28
+845,28,India,Desktop,Referral,2023-03-11
+846,38,Singapore,Tablet,Affiliate,2023-11-29
+847,57,Australia,Desktop,Google Ads,2023-12-22
+848,55,Australia,Mobile,Referral,2023-12-07
+849,36,Singapore,Mobile,Organic,2023-06-07
+850,54,UK,Tablet,Organic,2023-12-26
+851,56,USA,Tablet,Google Ads,2023-04-04
+852,54,Thailand,Desktop,Google Ads,2023-11-24
+853,22,Singapore,Desktop,Facebook Ads,2023-06-19
+854,58,Thailand,Tablet,Facebook Ads,2023-03-27
+855,18,USA,Mobile,Google Ads,2023-08-17
+856,22,USA,Desktop,Organic,2023-12-21
+857,21,UK,Desktop,Referral,2023-01-01
+858,44,UK,Desktop,Facebook Ads,2023-03-27
+859,42,Thailand,Desktop,Affiliate,2023-10-07
+860,32,Singapore,Desktop,Organic,2023-11-30
+861,36,Thailand,Desktop,Facebook Ads,2023-01-18
+862,22,USA,Mobile,Referral,2023-02-23
+863,22,Germany,Mobile,Facebook Ads,2023-03-24
+864,57,UK,Tablet,Organic,2023-11-01
+865,59,Singapore,Tablet,Referral,2023-08-09
+866,21,Thailand,Desktop,Google Ads,2023-03-22
+867,44,India,Tablet,Affiliate,2023-04-08
+868,60,USA,Desktop,Google Ads,2023-05-16
+869,21,UK,Tablet,Affiliate,2023-02-19
+870,27,Thailand,Desktop,Organic,2023-09-09
+871,23,USA,Tablet,Affiliate,2023-08-07
+872,30,Thailand,Mobile,Google Ads,2023-09-03
+873,58,USA,Mobile,Referral,2023-03-29
+874,37,Australia,Desktop,Referral,2023-03-01
+875,60,USA,Mobile,Affiliate,2023-09-08
+876,29,USA,Desktop,Facebook Ads,2023-07-18
+877,46,Thailand,Desktop,Referral,2023-04-06
+878,34,Singapore,Desktop,Affiliate,2023-08-27
+879,27,Australia,Tablet,Organic,2023-02-01
+880,60,USA,Tablet,Referral,2023-02-13
+881,32,Germany,Mobile,Referral,2023-10-29
+882,44,Germany,Tablet,Referral,2023-09-25
+883,33,UK,Desktop,Organic,2023-10-21
+884,20,Germany,Tablet,Affiliate,2023-07-22
+885,57,Singapore,Mobile,Referral,2023-10-20
+886,28,Singapore,Mobile,Google Ads,2023-03-30
+887,45,Thailand,Tablet,Referral,2023-01-22
+888,58,Singapore,Tablet,Facebook Ads,2023-04-14
+889,22,Thailand,Desktop,Affiliate,2023-06-13
+890,53,USA,Desktop,Affiliate,2023-07-23
+891,18,Australia,Tablet,Affiliate,2023-08-23
+892,51,Australia,Desktop,Organic,2023-10-28
+893,27,Singapore,Tablet,Affiliate,2023-08-01
+894,24,Thailand,Tablet,Organic,2023-10-26
+895,52,USA,Desktop,Facebook Ads,2023-05-27
+896,59,UK,Tablet,Affiliate,2023-07-16
+897,20,Singapore,Desktop,Referral,2023-08-31
+898,57,Germany,Tablet,Referral,2023-03-15
+899,43,USA,Tablet,Google Ads,2023-01-20
+900,48,USA,Desktop,Organic,2023-01-26
+901,37,USA,Desktop,Referral,2023-06-22
+902,24,Australia,Mobile,Google Ads,2023-12-23
+903,46,Australia,Desktop,Facebook Ads,2023-06-03
+904,56,India,Mobile,Google Ads,2023-08-02
+905,31,Australia,Desktop,Referral,2023-08-15
+906,41,Australia,Mobile,Affiliate,2023-09-22
+907,22,USA,Tablet,Affiliate,2023-03-23
+908,26,Australia,Tablet,Affiliate,2023-07-26
+909,29,Singapore,Mobile,Organic,2023-01-15
+910,20,UK,Mobile,Facebook Ads,2023-05-08
+911,30,USA,Desktop,Referral,2023-12-27
+912,43,India,Mobile,Organic,2023-09-16
+913,41,UK,Tablet,Referral,2023-05-04
+914,48,Germany,Tablet,Facebook Ads,2023-04-01
+915,28,Australia,Desktop,Organic,2023-06-26
+916,19,UK,Mobile,Google Ads,2023-05-26
+917,31,Australia,Mobile,Google Ads,2023-10-20
+918,31,USA,Tablet,Referral,2023-12-13
+919,19,Australia,Tablet,Organic,2023-09-20
+920,26,India,Mobile,Affiliate,2023-08-31
+921,32,USA,Tablet,Facebook Ads,2023-01-05
+922,59,USA,Desktop,Referral,2023-12-31
+923,47,USA,Mobile,Referral,2023-06-28
+924,51,Australia,Tablet,Referral,2023-06-04
+925,24,Thailand,Tablet,Facebook Ads,2023-10-27
+926,59,Germany,Tablet,Facebook Ads,2023-10-15
+927,24,UK,Mobile,Facebook Ads,2023-06-02
+928,58,USA,Desktop,Facebook Ads,2023-05-22
+929,59,USA,Mobile,Google Ads,2023-12-02
+930,33,Thailand,Tablet,Referral,2023-09-22
+931,38,India,Mobile,Organic,2023-12-05
+932,49,USA,Desktop,Referral,2023-12-02
+933,42,India,Mobile,Affiliate,2023-07-27
+934,54,Australia,Mobile,Facebook Ads,2023-12-29
+935,32,India,Tablet,Referral,2024-01-01
+936,40,Germany,Desktop,Google Ads,2023-12-10
+937,53,Singapore,Desktop,Organic,2023-12-03
+938,26,India,Desktop,Affiliate,2023-08-30
+939,39,India,Mobile,Google Ads,2023-04-04
+940,32,India,Desktop,Referral,2023-07-01
+941,41,USA,Tablet,Facebook Ads,2023-06-19
+942,25,UK,Mobile,Affiliate,2023-08-26
+943,57,Thailand,Desktop,Google Ads,2023-10-25
+944,25,Australia,Tablet,Referral,2023-09-14
+945,37,UK,Mobile,Google Ads,2023-09-29
+946,30,USA,Desktop,Affiliate,2023-03-12
+947,27,USA,Tablet,Google Ads,2023-08-23
+948,49,USA,Tablet,Google Ads,2023-02-11
+949,58,Thailand,Mobile,Referral,2023-06-10
+950,31,Australia,Mobile,Affiliate,2023-05-21
+951,49,Australia,Mobile,Google Ads,2023-03-23
+952,45,India,Desktop,Referral,2023-11-11
+953,48,UK,Mobile,Organic,2023-08-08
+954,30,India,Desktop,Organic,2023-10-01
+955,51,Singapore,Mobile,Organic,2023-06-14
+956,33,Singapore,Tablet,Facebook Ads,2023-11-17
+957,26,Thailand,Desktop,Affiliate,2023-06-09
+958,37,Singapore,Mobile,Organic,2023-10-29
+959,36,UK,Tablet,Affiliate,2023-06-02
+960,51,USA,Desktop,Google Ads,2023-11-02
+961,49,USA,Mobile,Google Ads,2023-06-25
+962,19,Singapore,Mobile,Google Ads,2023-07-26
+963,19,Germany,Tablet,Google Ads,2023-04-19
+964,41,India,Tablet,Organic,2023-03-05
+965,58,USA,Tablet,Affiliate,2023-07-12
+966,56,Thailand,Tablet,Organic,2023-01-25
+967,19,Thailand,Tablet,Organic,2023-12-01
+968,46,UK,Mobile,Affiliate,2023-08-02
+969,48,India,Mobile,Google Ads,2023-05-10
+970,58,Thailand,Desktop,Referral,2023-12-22
+971,24,India,Tablet,Facebook Ads,2023-12-05
+972,56,India,Mobile,Referral,2023-11-15
+973,50,India,Tablet,Organic,2023-02-23
+974,25,Australia,Mobile,Referral,2023-05-25
+975,56,Singapore,Desktop,Affiliate,2023-04-12
+976,40,India,Desktop,Facebook Ads,2023-04-14
+977,20,Germany,Desktop,Google Ads,2023-03-24
+978,48,USA,Mobile,Organic,2023-12-19
+979,60,Thailand,Mobile,Affiliate,2023-01-07
+980,49,Singapore,Mobile,Affiliate,2023-12-09
+981,24,USA,Tablet,Google Ads,2023-02-08
+982,36,USA,Desktop,Organic,2023-08-22
+983,29,Australia,Mobile,Facebook Ads,2023-02-21
+984,38,UK,Tablet,Organic,2023-07-04
+985,20,Thailand,Mobile,Google Ads,2023-02-18
+986,40,UK,Tablet,Facebook Ads,2023-06-18
+987,41,Australia,Desktop,Google Ads,2023-02-17
+988,43,UK,Desktop,Facebook Ads,2023-02-28
+989,48,Australia,Desktop,Google Ads,2023-07-17
+990,26,India,Tablet,Organic,2023-02-27
+991,24,UK,Tablet,Referral,2023-03-23
+992,46,Singapore,Tablet,Referral,2023-10-19
+993,57,Thailand,Tablet,Google Ads,2023-07-03
+994,49,Thailand,Desktop,Referral,2023-09-05
+995,22,USA,Tablet,Facebook Ads,2023-01-24
+996,51,Australia,Tablet,Affiliate,2023-01-07
+997,32,India,Desktop,Affiliate,2023-10-17
+998,57,Thailand,Desktop,Google Ads,2023-09-25
+999,40,India,Tablet,Referral,2023-09-04
+1000,53,Germany,Mobile,Organic,2023-03-18
+1001,28,Germany,Desktop,Referral,2023-11-26
+1002,22,Australia,Desktop,Facebook Ads,2023-03-26
+1003,39,USA,Mobile,Affiliate,2023-05-04
+1004,53,India,Desktop,Referral,2023-04-25
+1005,23,UK,Desktop,Affiliate,2023-05-01
+1006,23,Australia,Desktop,Referral,2023-08-18
+1007,25,UK,Tablet,Organic,2023-06-11
+1008,43,UK,Mobile,Affiliate,2023-02-22
+1009,18,Australia,Mobile,Affiliate,2023-10-09
+1010,58,USA,Tablet,Affiliate,2023-11-13
+1011,59,India,Desktop,Facebook Ads,2023-04-16
+1012,21,Australia,Mobile,Referral,2023-07-06
+1013,53,Australia,Tablet,Affiliate,2023-06-19
+1014,60,USA,Tablet,Referral,2023-08-31
+1015,24,Australia,Tablet,Google Ads,2023-02-28
+1016,39,USA,Tablet,Facebook Ads,2023-01-02
+1017,51,USA,Tablet,Organic,2023-10-08
+1018,28,UK,Mobile,Referral,2023-01-24
+1019,34,Germany,Mobile,Google Ads,2023-02-24
+1020,43,Singapore,Desktop,Google Ads,2023-03-03
+1021,24,Australia,Desktop,Organic,2023-06-23
+1022,55,Thailand,Desktop,Referral,2023-11-21
+1023,55,Germany,Mobile,Referral,2023-12-04
+1024,51,India,Mobile,Affiliate,2023-01-03
+1025,55,UK,Tablet,Google Ads,2023-08-10
+1026,55,Singapore,Tablet,Google Ads,2023-12-21
+1027,42,India,Tablet,Affiliate,2023-02-23
+1028,50,UK,Desktop,Affiliate,2023-06-14
+1029,33,USA,Desktop,Facebook Ads,2023-12-21
+1030,46,Australia,Mobile,Google Ads,2023-05-31
+1031,56,India,Tablet,Affiliate,2023-07-31
+1032,53,Australia,Desktop,Affiliate,2023-06-03
+1033,31,Singapore,Mobile,Affiliate,2023-11-20
+1034,36,India,Desktop,Google Ads,2024-01-01
+1035,59,Singapore,Tablet,Affiliate,2023-12-30
+1036,58,USA,Tablet,Organic,2023-12-22
+1037,53,UK,Tablet,Affiliate,2023-06-30
+1038,44,India,Tablet,Affiliate,2023-12-08
+1039,45,Australia,Mobile,Affiliate,2023-05-27
+1040,19,UK,Mobile,Organic,2023-02-24
+1041,21,Singapore,Desktop,Google Ads,2023-12-10
+1042,34,Singapore,Mobile,Facebook Ads,2023-05-27
+1043,52,Thailand,Desktop,Referral,2023-04-15
+1044,57,Australia,Tablet,Affiliate,2023-02-22
+1045,59,Germany,Desktop,Google Ads,2023-04-25
+1046,36,India,Tablet,Organic,2023-09-19
+1047,42,UK,Tablet,Facebook Ads,2023-07-15
+1048,21,Thailand,Tablet,Facebook Ads,2023-10-10
+1049,57,Australia,Desktop,Google Ads,2023-04-14
+1050,59,USA,Tablet,Affiliate,2023-11-21
+1051,30,Australia,Tablet,Google Ads,2023-11-05
+1052,46,Singapore,Tablet,Organic,2023-05-31
+1053,29,India,Tablet,Organic,2023-04-06
+1054,20,UK,Desktop,Affiliate,2023-07-13
+1055,26,Singapore,Tablet,Facebook Ads,2023-05-16
+1056,39,UK,Tablet,Google Ads,2023-01-03
+1057,27,USA,Tablet,Organic,2023-01-21
+1058,57,Australia,Tablet,Facebook Ads,2023-11-17
+1059,54,Germany,Desktop,Organic,2023-09-09
+1060,38,Germany,Mobile,Google Ads,2023-12-29
+1061,22,Australia,Tablet,Google Ads,2023-09-24
+1062,52,Germany,Desktop,Organic,2023-08-01
+1063,32,Singapore,Tablet,Facebook Ads,2023-06-28
+1064,41,USA,Mobile,Affiliate,2023-06-19
+1065,48,Germany,Tablet,Organic,2023-09-29
+1066,60,USA,Desktop,Google Ads,2023-02-28
+1067,57,Germany,Mobile,Organic,2023-11-25
+1068,38,UK,Mobile,Referral,2023-12-16
+1069,52,India,Desktop,Organic,2023-05-12
+1070,41,Germany,Tablet,Referral,2023-09-22
+1071,20,USA,Tablet,Google Ads,2023-09-07
+1072,50,Thailand,Mobile,Google Ads,2023-06-14
+1073,52,Thailand,Tablet,Organic,2023-10-03
+1074,60,India,Mobile,Referral,2023-04-18
+1075,31,Germany,Tablet,Referral,2023-02-23
+1076,22,India,Tablet,Google Ads,2023-11-28
+1077,47,India,Desktop,Organic,2023-01-13
+1078,22,Thailand,Mobile,Facebook Ads,2023-02-14
+1079,22,Germany,Mobile,Facebook Ads,2023-10-13
+1080,42,UK,Tablet,Referral,2023-07-28
+1081,38,Thailand,Desktop,Organic,2023-08-10
+1082,18,India,Tablet,Affiliate,2023-10-01
+1083,55,Thailand,Tablet,Organic,2023-02-02
+1084,50,Thailand,Desktop,Facebook Ads,2023-07-03
+1085,23,USA,Desktop,Referral,2023-11-07
+1086,60,Thailand,Desktop,Google Ads,2023-07-22
+1087,32,Singapore,Tablet,Referral,2023-10-01
+1088,36,India,Mobile,Facebook Ads,2023-10-07
+1089,59,USA,Mobile,Affiliate,2023-12-13
+1090,27,Thailand,Mobile,Organic,2023-10-12
+1091,56,UK,Tablet,Affiliate,2023-10-21
+1092,37,Singapore,Tablet,Facebook Ads,2023-02-13
+1093,44,India,Tablet,Google Ads,2023-04-19
+1094,29,Singapore,Tablet,Facebook Ads,2023-03-24
+1095,25,Singapore,Tablet,Affiliate,2023-04-10
+1096,53,UK,Tablet,Affiliate,2023-01-28
+1097,36,India,Mobile,Facebook Ads,2023-02-07
+1098,30,India,Tablet,Referral,2023-02-20
+1099,40,Singapore,Tablet,Google Ads,2023-06-19
+1100,36,Germany,Mobile,Google Ads,2023-02-21
+1101,49,UK,Desktop,Affiliate,2023-06-12
+1102,37,India,Tablet,Google Ads,2023-12-04
+1103,54,USA,Desktop,Referral,2023-10-17
+1104,18,USA,Mobile,Google Ads,2023-03-28
+1105,59,UK,Desktop,Facebook Ads,2023-12-31
+1106,39,UK,Desktop,Referral,2023-03-10
+1107,37,UK,Tablet,Organic,2023-07-03
+1108,59,Germany,Mobile,Facebook Ads,2023-03-31
+1109,52,Singapore,Desktop,Organic,2023-03-13
+1110,19,Australia,Tablet,Organic,2023-02-08
+1111,55,UK,Tablet,Google Ads,2023-10-25
+1112,53,USA,Tablet,Affiliate,2023-01-19
+1113,59,Australia,Mobile,Facebook Ads,2023-08-30
+1114,32,Australia,Tablet,Facebook Ads,2023-07-20
+1115,47,Germany,Tablet,Organic,2023-03-10
+1116,41,Germany,Mobile,Google Ads,2023-07-23
+1117,28,Australia,Tablet,Google Ads,2023-11-11
+1118,28,Singapore,Tablet,Affiliate,2023-08-17
+1119,27,India,Tablet,Referral,2023-12-04
+1120,20,Singapore,Desktop,Google Ads,2023-07-03
+1121,34,USA,Mobile,Organic,2023-02-02
+1122,31,Germany,Desktop,Referral,2023-12-09
+1123,47,Thailand,Mobile,Facebook Ads,2023-08-29
+1124,51,India,Desktop,Facebook Ads,2023-02-22
+1125,52,Germany,Mobile,Referral,2023-10-24
+1126,42,USA,Tablet,Organic,2023-12-01
+1127,34,UK,Mobile,Affiliate,2023-09-22
+1128,40,Australia,Desktop,Referral,2023-07-27
+1129,56,Thailand,Tablet,Google Ads,2023-09-04
+1130,28,Singapore,Mobile,Affiliate,2023-08-14
+1131,35,Singapore,Mobile,Google Ads,2023-11-26
+1132,41,Germany,Tablet,Organic,2023-03-22
+1133,32,UK,Desktop,Organic,2023-12-05
+1134,48,UK,Mobile,Affiliate,2023-09-04
+1135,59,Australia,Desktop,Organic,2023-03-24
+1136,20,Singapore,Tablet,Affiliate,2023-05-05
+1137,26,India,Tablet,Organic,2023-03-24
+1138,27,Thailand,Mobile,Facebook Ads,2023-10-21
+1139,51,UK,Tablet,Affiliate,2023-04-03
+1140,19,India,Tablet,Facebook Ads,2023-11-23
+1141,31,UK,Tablet,Referral,2023-02-13
+1142,28,Singapore,Desktop,Affiliate,2023-09-04
+1143,55,Australia,Mobile,Affiliate,2023-03-15
+1144,50,USA,Mobile,Facebook Ads,2023-12-04
+1145,56,Germany,Mobile,Google Ads,2023-08-21
+1146,42,Singapore,Mobile,Organic,2023-07-13
+1147,51,Australia,Tablet,Referral,2023-04-14
+1148,56,Thailand,Mobile,Referral,2023-03-18
+1149,56,Thailand,Tablet,Affiliate,2023-11-11
+1150,23,UK,Tablet,Google Ads,2023-03-02
+1151,52,Australia,Mobile,Referral,2023-11-05
+1152,44,USA,Mobile,Affiliate,2023-09-25
+1153,32,Australia,Desktop,Referral,2023-08-08
+1154,55,Australia,Tablet,Affiliate,2023-06-29
+1155,45,Singapore,Desktop,Referral,2023-02-20
+1156,23,USA,Tablet,Affiliate,2023-04-30
+1157,34,Singapore,Mobile,Organic,2023-07-29
+1158,51,Thailand,Tablet,Organic,2023-10-23
+1159,59,Singapore,Tablet,Facebook Ads,2023-07-12
+1160,41,Thailand,Mobile,Referral,2023-07-29
+1161,55,USA,Desktop,Affiliate,2023-11-30
+1162,54,USA,Tablet,Facebook Ads,2023-08-05
+1163,43,Australia,Mobile,Referral,2023-12-15
+1164,53,UK,Mobile,Facebook Ads,2023-10-10
+1165,53,UK,Desktop,Facebook Ads,2023-10-14
+1166,40,Australia,Tablet,Referral,2023-10-23
+1167,60,Thailand,Tablet,Google Ads,2023-03-12
+1168,28,Thailand,Mobile,Affiliate,2023-08-17
+1169,39,Australia,Tablet,Affiliate,2023-07-25
+1170,21,Singapore,Desktop,Organic,2023-12-23
+1171,27,UK,Tablet,Referral,2023-02-16
+1172,22,USA,Mobile,Facebook Ads,2023-02-15
+1173,56,Thailand,Tablet,Referral,2023-02-10
+1174,57,India,Tablet,Facebook Ads,2023-07-25
+1175,56,Thailand,Mobile,Referral,2023-12-31
+1176,18,Singapore,Tablet,Affiliate,2023-08-13
+1177,30,Thailand,Tablet,Affiliate,2023-05-27
+1178,32,Germany,Mobile,Organic,2023-09-22
+1179,33,India,Mobile,Google Ads,2023-07-04
+1180,35,Australia,Desktop,Facebook Ads,2023-02-14
+1181,43,UK,Tablet,Google Ads,2023-12-09
+1182,18,India,Tablet,Organic,2023-09-23
+1183,53,USA,Tablet,Affiliate,2023-02-16
+1184,40,USA,Desktop,Google Ads,2023-10-26
+1185,30,UK,Desktop,Affiliate,2023-11-07
+1186,34,Singapore,Desktop,Affiliate,2023-01-03
+1187,53,Thailand,Tablet,Facebook Ads,2023-02-24
+1188,25,Australia,Tablet,Facebook Ads,2023-06-24
+1189,54,USA,Tablet,Referral,2023-10-03
+1190,54,UK,Mobile,Facebook Ads,2023-07-13
+1191,47,Germany,Mobile,Referral,2023-08-23
+1192,34,Thailand,Desktop,Google Ads,2023-03-01
+1193,32,Australia,Desktop,Referral,2023-12-13
+1194,51,Germany,Mobile,Facebook Ads,2023-06-30
+1195,36,Thailand,Desktop,Facebook Ads,2023-05-08
+1196,53,Singapore,Desktop,Facebook Ads,2023-02-08
+1197,31,Germany,Desktop,Google Ads,2023-07-01
+1198,30,UK,Tablet,Google Ads,2023-12-16
+1199,33,Australia,Desktop,Google Ads,2023-05-01
+1200,30,Australia,Mobile,Affiliate,2023-04-28
+1201,27,Australia,Mobile,Organic,2023-07-02
+1202,60,UK,Tablet,Organic,2023-02-10
+1203,20,Australia,Desktop,Facebook Ads,2023-10-05
+1204,38,UK,Tablet,Facebook Ads,2023-11-14
+1205,29,Australia,Tablet,Facebook Ads,2023-09-09
+1206,32,Australia,Tablet,Google Ads,2023-07-23
+1207,51,Australia,Desktop,Referral,2023-01-28
+1208,20,Germany,Desktop,Referral,2023-10-04
+1209,29,UK,Mobile,Affiliate,2023-12-18
+1210,38,India,Mobile,Organic,2023-08-24
+1211,31,UK,Tablet,Organic,2023-12-12
+1212,41,Germany,Desktop,Google Ads,2023-06-16
+1213,34,Singapore,Desktop,Referral,2023-10-08
+1214,39,USA,Mobile,Referral,2023-11-10
+1215,31,UK,Tablet,Facebook Ads,2023-08-06
+1216,43,USA,Desktop,Google Ads,2023-07-06
+1217,26,Germany,Tablet,Google Ads,2023-10-20
+1218,35,Australia,Mobile,Affiliate,2023-02-21
+1219,42,Singapore,Mobile,Google Ads,2023-08-10
+1220,18,Singapore,Desktop,Referral,2023-08-31
+1221,58,Germany,Tablet,Facebook Ads,2023-03-10
+1222,37,USA,Tablet,Affiliate,2023-09-07
+1223,43,Thailand,Tablet,Google Ads,2023-01-25
+1224,31,Australia,Desktop,Referral,2023-01-31
+1225,24,UK,Tablet,Facebook Ads,2023-11-19
+1226,41,USA,Tablet,Affiliate,2023-05-14
+1227,40,Thailand,Desktop,Organic,2023-05-12
+1228,56,Singapore,Tablet,Affiliate,2023-06-29
+1229,59,Germany,Mobile,Facebook Ads,2023-11-29
+1230,38,India,Tablet,Referral,2023-07-01
+1231,23,UK,Tablet,Facebook Ads,2023-08-17
+1232,58,Singapore,Mobile,Facebook Ads,2023-08-26
+1233,58,Germany,Tablet,Referral,2023-08-04
+1234,23,Singapore,Desktop,Google Ads,2023-02-06
+1235,38,India,Desktop,Facebook Ads,2023-06-10
+1236,59,UK,Desktop,Referral,2023-11-06
+1237,55,Germany,Desktop,Referral,2023-07-05
+1238,29,Australia,Mobile,Google Ads,2023-03-27
+1239,60,USA,Tablet,Organic,2023-05-01
+1240,28,UK,Mobile,Organic,2023-04-18
+1241,48,Germany,Mobile,Organic,2023-02-02
+1242,51,Australia,Mobile,Organic,2023-07-23
+1243,57,Singapore,Mobile,Referral,2023-05-15
+1244,32,Singapore,Tablet,Facebook Ads,2023-06-08
+1245,58,Singapore,Mobile,Affiliate,2023-08-15
+1246,19,Thailand,Tablet,Facebook Ads,2023-03-29
+1247,48,UK,Tablet,Facebook Ads,2023-06-16
+1248,46,Singapore,Tablet,Affiliate,2023-10-08
+1249,55,Germany,Desktop,Affiliate,2023-04-01
+1250,51,India,Tablet,Affiliate,2023-08-11
+1251,40,UK,Tablet,Google Ads,2023-06-08
+1252,46,USA,Desktop,Referral,2023-02-15
+1253,27,USA,Mobile,Organic,2023-05-14
+1254,26,USA,Desktop,Referral,2023-09-25
+1255,18,India,Desktop,Referral,2023-10-01
+1256,18,Australia,Desktop,Facebook Ads,2023-06-03
+1257,32,Australia,Mobile,Affiliate,2023-11-02
+1258,30,UK,Tablet,Referral,2023-07-11
+1259,33,Singapore,Tablet,Referral,2023-07-22
+1260,32,USA,Mobile,Referral,2023-07-13
+1261,33,Germany,Tablet,Facebook Ads,2023-11-17
+1262,59,India,Tablet,Facebook Ads,2023-05-26
+1263,30,Australia,Mobile,Google Ads,2023-07-31
+1264,36,Thailand,Tablet,Referral,2023-03-11
+1265,46,USA,Tablet,Affiliate,2023-11-13
+1266,30,USA,Mobile,Google Ads,2023-09-09
+1267,52,Thailand,Mobile,Organic,2023-01-26
+1268,35,Singapore,Tablet,Referral,2023-05-25
+1269,32,Thailand,Mobile,Organic,2023-01-05
+1270,31,USA,Desktop,Facebook Ads,2023-09-10
+1271,41,UK,Tablet,Organic,2023-09-13
+1272,23,Australia,Mobile,Organic,2023-06-19
+1273,43,Thailand,Tablet,Referral,2023-05-17
+1274,30,Australia,Desktop,Referral,2023-04-03
+1275,25,Australia,Tablet,Google Ads,2023-01-07
+1276,46,Singapore,Tablet,Organic,2023-07-17
+1277,47,India,Mobile,Affiliate,2023-04-12
+1278,31,UK,Desktop,Facebook Ads,2023-12-07
+1279,28,India,Tablet,Organic,2023-06-15
+1280,51,Thailand,Desktop,Referral,2023-10-09
+1281,37,Singapore,Desktop,Organic,2023-11-23
+1282,31,Thailand,Mobile,Referral,2023-12-08
+1283,18,Singapore,Desktop,Affiliate,2023-06-16
+1284,43,Australia,Mobile,Organic,2023-03-03
+1285,55,Australia,Tablet,Referral,2023-01-22
+1286,56,Singapore,Desktop,Organic,2023-12-19
+1287,28,UK,Mobile,Affiliate,2023-05-08
+1288,58,Thailand,Mobile,Facebook Ads,2023-06-23
+1289,27,India,Tablet,Organic,2023-11-27
+1290,49,Singapore,Desktop,Affiliate,2023-03-06
+1291,40,Australia,Desktop,Google Ads,2023-11-27
+1292,42,USA,Tablet,Google Ads,2023-01-11
+1293,20,UK,Tablet,Referral,2023-05-09
+1294,36,Germany,Tablet,Referral,2023-10-14
+1295,54,Singapore,Tablet,Facebook Ads,2023-04-08
+1296,47,USA,Tablet,Affiliate,2023-06-15
+1297,22,Germany,Mobile,Referral,2023-03-24
+1298,34,Germany,Desktop,Referral,2023-06-01
+1299,58,Germany,Desktop,Google Ads,2023-01-01
+1300,57,Australia,Desktop,Affiliate,2023-01-10
+1301,38,India,Mobile,Affiliate,2023-05-03
+1302,30,Germany,Tablet,Referral,2023-07-18
+1303,27,Germany,Desktop,Facebook Ads,2023-10-10
+1304,59,USA,Mobile,Organic,2023-07-29
+1305,60,Thailand,Mobile,Google Ads,2023-09-25
+1306,20,Singapore,Mobile,Referral,2023-04-02
+1307,24,Thailand,Tablet,Referral,2023-04-09
+1308,49,Germany,Tablet,Affiliate,2023-12-03
+1309,21,USA,Mobile,Affiliate,2023-05-12
+1310,18,Singapore,Tablet,Referral,2023-02-06
+1311,47,Australia,Tablet,Organic,2023-02-10
+1312,53,India,Desktop,Facebook Ads,2023-07-04
+1313,21,Australia,Tablet,Facebook Ads,2023-12-29
+1314,20,India,Mobile,Facebook Ads,2023-09-28
+1315,31,Germany,Mobile,Organic,2023-02-09
+1316,52,UK,Mobile,Google Ads,2023-04-29
+1317,60,Singapore,Tablet,Google Ads,2023-09-27
+1318,53,UK,Tablet,Organic,2023-10-13
+1319,54,USA,Tablet,Referral,2023-11-23
+1320,60,UK,Mobile,Google Ads,2023-12-26
+1321,53,UK,Tablet,Facebook Ads,2023-04-03
+1322,28,Germany,Tablet,Referral,2023-12-03
+1323,38,Germany,Desktop,Facebook Ads,2023-06-30
+1324,58,UK,Tablet,Facebook Ads,2023-07-31
+1325,33,Germany,Tablet,Google Ads,2023-11-08
+1326,53,India,Desktop,Facebook Ads,2023-07-12
+1327,46,UK,Mobile,Organic,2023-08-20
+1328,56,Thailand,Tablet,Google Ads,2023-05-26
+1329,18,USA,Mobile,Google Ads,2023-06-04
+1330,19,Australia,Tablet,Facebook Ads,2023-06-11
+1331,50,Germany,Tablet,Affiliate,2023-10-11
+1332,24,Thailand,Desktop,Facebook Ads,2023-03-21
+1333,26,USA,Desktop,Affiliate,2023-03-21
+1334,32,USA,Desktop,Organic,2023-05-08
+1335,43,Germany,Mobile,Organic,2023-10-20
+1336,48,Singapore,Desktop,Affiliate,2023-06-16
+1337,56,India,Desktop,Organic,2023-02-18
+1338,42,Thailand,Mobile,Facebook Ads,2023-10-23
+1339,45,UK,Mobile,Google Ads,2023-06-28
+1340,56,Thailand,Tablet,Referral,2023-12-01
+1341,37,Germany,Mobile,Facebook Ads,2023-01-28
+1342,54,Singapore,Desktop,Affiliate,2023-10-04
+1343,32,Singapore,Mobile,Referral,2023-12-24
+1344,56,Germany,Tablet,Organic,2023-08-17
+1345,45,USA,Desktop,Google Ads,2023-04-24
+1346,39,Thailand,Desktop,Affiliate,2023-03-09
+1347,53,UK,Desktop,Organic,2023-01-26
+1348,50,UK,Tablet,Google Ads,2023-07-24
+1349,48,Germany,Mobile,Referral,2023-03-11
+1350,59,Germany,Mobile,Affiliate,2023-07-22
+1351,51,Singapore,Mobile,Organic,2023-11-12
+1352,45,USA,Tablet,Affiliate,2023-05-17
+1353,25,India,Desktop,Referral,2023-02-15
+1354,40,Singapore,Desktop,Facebook Ads,2023-07-07
+1355,59,Thailand,Desktop,Google Ads,2023-11-01
+1356,57,Australia,Desktop,Affiliate,2023-06-29
+1357,46,Thailand,Mobile,Google Ads,2023-03-16
+1358,41,Singapore,Tablet,Organic,2023-12-17
+1359,21,Singapore,Tablet,Google Ads,2023-02-27
+1360,18,USA,Tablet,Organic,2023-05-28
+1361,46,UK,Mobile,Facebook Ads,2023-06-06
+1362,52,Singapore,Mobile,Affiliate,2023-04-18
+1363,34,Germany,Desktop,Affiliate,2023-09-25
+1364,60,Thailand,Desktop,Affiliate,2023-03-14
+1365,51,Thailand,Desktop,Google Ads,2023-12-06
+1366,36,Singapore,Tablet,Affiliate,2023-01-31
+1367,21,UK,Tablet,Organic,2023-05-19
+1368,42,India,Desktop,Facebook Ads,2023-02-04
+1369,19,USA,Tablet,Referral,2023-02-25
+1370,42,Germany,Tablet,Organic,2023-04-29
+1371,49,Australia,Tablet,Affiliate,2023-06-11
+1372,29,Singapore,Tablet,Referral,2023-02-15
+1373,19,Thailand,Mobile,Affiliate,2023-10-15
+1374,39,UK,Desktop,Google Ads,2023-06-06
+1375,40,India,Desktop,Facebook Ads,2023-01-10
+1376,37,Singapore,Tablet,Facebook Ads,2023-11-17
+1377,58,USA,Desktop,Organic,2023-02-01
+1378,35,Singapore,Mobile,Facebook Ads,2023-10-12
+1379,60,Singapore,Mobile,Referral,2023-07-21
+1380,57,Australia,Tablet,Google Ads,2023-09-24
+1381,33,Germany,Mobile,Referral,2023-08-02
+1382,56,USA,Desktop,Affiliate,2023-06-09
+1383,31,India,Mobile,Affiliate,2023-03-09
+1384,30,Australia,Mobile,Facebook Ads,2023-10-05
+1385,51,Singapore,Desktop,Google Ads,2023-12-19
+1386,54,Singapore,Desktop,Organic,2023-12-02
+1387,52,India,Mobile,Google Ads,2023-10-13
+1388,27,India,Mobile,Facebook Ads,2023-06-12
+1389,44,USA,Desktop,Facebook Ads,2023-07-31
+1390,30,Thailand,Mobile,Google Ads,2023-03-19
+1391,57,Germany,Desktop,Affiliate,2023-01-14
+1392,57,Singapore,Tablet,Google Ads,2023-10-18
+1393,19,USA,Mobile,Referral,2023-04-29
+1394,50,Australia,Tablet,Referral,2023-03-10
+1395,59,USA,Mobile,Referral,2023-12-31
+1396,48,Singapore,Mobile,Google Ads,2023-09-09
+1397,20,UK,Mobile,Facebook Ads,2023-04-26
+1398,32,India,Tablet,Google Ads,2023-07-31
+1399,22,Singapore,Desktop,Affiliate,2023-04-15
+1400,38,Australia,Desktop,Google Ads,2023-09-08
+1401,43,Australia,Mobile,Affiliate,2023-08-07
+1402,38,UK,Tablet,Affiliate,2023-07-14
+1403,52,Germany,Tablet,Organic,2023-11-01
+1404,24,UK,Desktop,Organic,2023-09-24
+1405,51,Germany,Desktop,Organic,2023-05-06
+1406,42,Germany,Tablet,Organic,2023-10-13
+1407,36,UK,Desktop,Facebook Ads,2023-04-08
+1408,47,Singapore,Desktop,Facebook Ads,2023-05-27
+1409,21,India,Tablet,Google Ads,2023-11-10
+1410,59,UK,Mobile,Affiliate,2023-08-26
+1411,29,Australia,Tablet,Affiliate,2023-02-27
+1412,43,UK,Desktop,Referral,2023-03-11
+1413,29,UK,Tablet,Google Ads,2023-01-13
+1414,23,USA,Desktop,Google Ads,2023-08-21
+1415,23,Thailand,Tablet,Referral,2023-03-05
+1416,41,Thailand,Tablet,Referral,2023-11-21
+1417,57,Singapore,Desktop,Affiliate,2023-09-19
+1418,20,Australia,Mobile,Facebook Ads,2023-07-14
+1419,60,Australia,Mobile,Google Ads,2023-10-17
+1420,29,Australia,Tablet,Organic,2023-03-16
+1421,37,USA,Tablet,Referral,2023-08-03
+1422,58,Singapore,Mobile,Google Ads,2023-05-28
+1423,18,Germany,Desktop,Organic,2023-04-14
+1424,49,Australia,Desktop,Affiliate,2023-08-23
+1425,56,UK,Mobile,Google Ads,2023-01-03
+1426,60,UK,Desktop,Referral,2023-10-29
+1427,23,Germany,Tablet,Organic,2023-08-15
+1428,53,USA,Tablet,Affiliate,2023-05-06
+1429,21,Singapore,Mobile,Organic,2023-04-17
+1430,40,Thailand,Mobile,Organic,2023-12-01
+1431,54,Australia,Tablet,Facebook Ads,2023-12-08
+1432,23,Thailand,Mobile,Referral,2023-06-19
+1433,28,India,Desktop,Affiliate,2023-04-02
+1434,56,Germany,Tablet,Google Ads,2023-12-05
+1435,55,USA,Mobile,Organic,2023-08-22
+1436,38,USA,Desktop,Organic,2023-06-03
+1437,53,Thailand,Desktop,Referral,2023-08-07
+1438,25,India,Desktop,Facebook Ads,2023-03-10
+1439,44,Germany,Mobile,Google Ads,2023-09-27
+1440,21,Thailand,Tablet,Affiliate,2023-11-10
+1441,48,India,Tablet,Affiliate,2023-02-14
+1442,36,UK,Tablet,Facebook Ads,2023-12-28
+1443,51,Germany,Tablet,Facebook Ads,2023-05-13
+1444,57,Germany,Desktop,Affiliate,2023-03-08
+1445,49,UK,Mobile,Affiliate,2023-11-20
+1446,36,Singapore,Mobile,Organic,2023-04-30
+1447,47,India,Mobile,Google Ads,2023-01-13
+1448,44,UK,Mobile,Facebook Ads,2023-11-12
+1449,53,Australia,Tablet,Google Ads,2023-06-29
+1450,58,Singapore,Tablet,Facebook Ads,2023-01-06
+1451,22,USA,Desktop,Affiliate,2023-05-11
+1452,38,Australia,Mobile,Organic,2023-10-09
+1453,39,USA,Desktop,Affiliate,2023-12-18
+1454,19,Australia,Mobile,Google Ads,2023-11-12
+1455,39,India,Desktop,Referral,2023-06-19
+1456,59,Singapore,Desktop,Google Ads,2023-01-19
+1457,47,Australia,Tablet,Facebook Ads,2023-11-18
+1458,44,India,Mobile,Affiliate,2023-08-25
+1459,54,India,Tablet,Facebook Ads,2023-06-03
+1460,52,Thailand,Mobile,Affiliate,2023-10-12
+1461,39,Australia,Desktop,Organic,2023-12-17
+1462,35,Australia,Mobile,Facebook Ads,2023-03-18
+1463,58,Germany,Mobile,Affiliate,2023-07-12
+1464,42,Singapore,Tablet,Organic,2023-11-07
+1465,38,India,Mobile,Facebook Ads,2023-06-07
+1466,23,UK,Mobile,Facebook Ads,2023-07-31
+1467,37,Singapore,Tablet,Facebook Ads,2023-08-20
+1468,25,USA,Mobile,Google Ads,2023-03-31
+1469,46,Germany,Mobile,Referral,2023-02-17
+1470,27,Singapore,Desktop,Referral,2023-09-14
+1471,37,Australia,Desktop,Google Ads,2023-09-26
+1472,51,India,Mobile,Google Ads,2023-02-20
+1473,47,UK,Tablet,Affiliate,2023-01-19
+1474,18,USA,Mobile,Affiliate,2023-03-01
+1475,39,UK,Mobile,Organic,2023-02-14
+1476,60,India,Desktop,Organic,2023-09-24
+1477,37,India,Mobile,Facebook Ads,2023-10-23
+1478,30,USA,Desktop,Affiliate,2023-04-13
+1479,46,India,Mobile,Facebook Ads,2023-06-13
+1480,28,USA,Mobile,Organic,2023-03-18
+1481,53,Germany,Mobile,Google Ads,2023-11-15
+1482,40,Germany,Desktop,Facebook Ads,2023-10-05
+1483,36,Germany,Mobile,Google Ads,2023-03-14
+1484,37,Germany,Desktop,Affiliate,2023-02-06
+1485,21,Singapore,Mobile,Referral,2023-08-16
+1486,21,Thailand,Desktop,Organic,2023-12-12
+1487,45,UK,Mobile,Affiliate,2023-02-14
+1488,58,Australia,Tablet,Referral,2023-10-31
+1489,40,USA,Desktop,Google Ads,2023-11-12
+1490,60,Australia,Tablet,Organic,2024-01-01
+1491,54,Singapore,Mobile,Referral,2023-08-27
+1492,47,USA,Tablet,Referral,2023-02-19
+1493,32,Singapore,Mobile,Affiliate,2023-08-29
+1494,41,UK,Mobile,Facebook Ads,2023-05-13
+1495,47,UK,Mobile,Organic,2023-06-16
+1496,25,USA,Desktop,Referral,2023-09-01
+1497,36,Australia,Desktop,Affiliate,2023-03-29
+1498,26,Germany,Mobile,Referral,2023-10-22
+1499,24,USA,Tablet,Organic,2024-01-01
+1500,52,UK,Desktop,Affiliate,2023-06-04
+1501,33,Germany,Mobile,Affiliate,2023-07-31
+1502,48,UK,Mobile,Facebook Ads,2023-03-23
+1503,55,UK,Desktop,Affiliate,2023-04-17
+1504,52,India,Mobile,Google Ads,2023-06-25
+1505,60,Thailand,Tablet,Affiliate,2023-12-06
+1506,25,Germany,Tablet,Referral,2023-09-07
+1507,53,Thailand,Desktop,Google Ads,2023-06-16
+1508,43,Thailand,Tablet,Organic,2023-06-07
+1509,56,Australia,Desktop,Facebook Ads,2023-12-17
+1510,59,India,Mobile,Organic,2023-09-11
+1511,26,Germany,Tablet,Organic,2023-04-22
+1512,60,Singapore,Desktop,Affiliate,2023-03-17
+1513,42,Germany,Tablet,Referral,2023-05-30
+1514,31,India,Desktop,Facebook Ads,2023-04-11
+1515,37,UK,Tablet,Facebook Ads,2023-10-19
+1516,55,Thailand,Tablet,Affiliate,2023-02-15
+1517,26,Australia,Desktop,Organic,2023-07-26
+1518,53,Thailand,Mobile,Affiliate,2023-07-09
+1519,25,Australia,Desktop,Organic,2023-07-03
+1520,45,India,Tablet,Referral,2023-05-01
+1521,38,India,Desktop,Referral,2023-11-17
+1522,45,Germany,Mobile,Google Ads,2023-07-15
+1523,26,Singapore,Tablet,Referral,2023-09-01
+1524,44,Singapore,Desktop,Google Ads,2023-07-04
+1525,18,Thailand,Tablet,Organic,2023-03-10
+1526,49,India,Desktop,Google Ads,2023-03-15
+1527,26,India,Desktop,Referral,2023-02-13
+1528,56,UK,Tablet,Google Ads,2023-12-23
+1529,50,UK,Tablet,Referral,2023-08-21
+1530,40,Singapore,Mobile,Referral,2023-07-16
+1531,18,Germany,Desktop,Google Ads,2023-11-06
+1532,50,USA,Desktop,Affiliate,2023-12-31
+1533,41,Thailand,Mobile,Affiliate,2023-10-23
+1534,41,Thailand,Tablet,Referral,2023-09-05
+1535,23,Singapore,Tablet,Affiliate,2023-12-20
+1536,47,Germany,Mobile,Affiliate,2023-05-24
+1537,23,Singapore,Desktop,Organic,2023-11-09
+1538,58,Germany,Tablet,Facebook Ads,2023-12-17
+1539,21,USA,Tablet,Organic,2023-11-10
+1540,47,Germany,Desktop,Affiliate,2023-08-29
+1541,44,USA,Desktop,Facebook Ads,2023-06-19
+1542,20,India,Tablet,Facebook Ads,2023-03-27
+1543,34,Thailand,Tablet,Referral,2023-10-16
+1544,28,Germany,Mobile,Facebook Ads,2023-10-24
+1545,19,USA,Desktop,Organic,2023-11-16
+1546,50,Thailand,Desktop,Facebook Ads,2023-03-06
+1547,57,USA,Desktop,Facebook Ads,2023-03-09
+1548,25,Germany,Mobile,Affiliate,2023-01-08
+1549,60,UK,Desktop,Google Ads,2023-03-19
+1550,33,UK,Mobile,Affiliate,2023-05-14
+1551,39,Thailand,Mobile,Affiliate,2023-01-17
+1552,49,Australia,Desktop,Referral,2023-03-20
+1553,60,UK,Tablet,Google Ads,2023-05-02
+1554,54,India,Desktop,Organic,2023-04-18
+1555,34,Australia,Mobile,Organic,2023-11-25
+1556,47,UK,Desktop,Facebook Ads,2023-03-27
+1557,52,Singapore,Desktop,Referral,2023-09-01
+1558,34,Singapore,Tablet,Referral,2023-08-31
+1559,36,Australia,Desktop,Referral,2023-01-07
+1560,38,Germany,Tablet,Organic,2023-12-14
+1561,52,India,Desktop,Referral,2023-02-19
+1562,59,Australia,Desktop,Facebook Ads,2023-11-09
+1563,35,Australia,Mobile,Facebook Ads,2023-05-19
+1564,55,UK,Desktop,Google Ads,2023-12-02
+1565,55,Australia,Mobile,Affiliate,2023-12-11
+1566,29,USA,Tablet,Organic,2023-06-22
+1567,18,Australia,Mobile,Organic,2023-12-11
+1568,24,Germany,Mobile,Referral,2023-07-30
+1569,32,India,Desktop,Facebook Ads,2023-06-29
+1570,20,Thailand,Tablet,Organic,2023-04-09
+1571,56,India,Mobile,Affiliate,2023-01-30
+1572,25,India,Mobile,Organic,2023-11-23
+1573,26,UK,Tablet,Affiliate,2023-11-06
+1574,25,India,Mobile,Facebook Ads,2023-04-05
+1575,47,India,Mobile,Referral,2023-05-31
+1576,45,India,Tablet,Facebook Ads,2023-05-22
+1577,28,Australia,Mobile,Facebook Ads,2023-05-12
+1578,42,UK,Desktop,Organic,2023-02-01
+1579,34,Singapore,Desktop,Organic,2023-05-13
+1580,30,Germany,Desktop,Google Ads,2023-09-09
+1581,49,Thailand,Mobile,Affiliate,2023-11-27
+1582,31,Germany,Tablet,Organic,2023-08-09
+1583,34,Thailand,Mobile,Organic,2023-08-15
+1584,54,India,Desktop,Referral,2023-02-06
+1585,49,Singapore,Tablet,Organic,2023-01-10
+1586,60,UK,Desktop,Google Ads,2023-01-20
+1587,39,UK,Tablet,Organic,2023-12-25
+1588,49,UK,Desktop,Referral,2023-09-21
+1589,52,Singapore,Mobile,Referral,2023-02-05
+1590,48,Thailand,Tablet,Affiliate,2023-12-19
+1591,39,India,Desktop,Referral,2023-07-03
+1592,58,India,Mobile,Facebook Ads,2023-01-29
+1593,39,Thailand,Desktop,Facebook Ads,2023-10-01
+1594,30,Singapore,Tablet,Organic,2023-11-28
+1595,60,Singapore,Desktop,Referral,2023-07-16
+1596,58,India,Desktop,Referral,2023-02-24
+1597,58,UK,Tablet,Google Ads,2023-02-13
+1598,20,Singapore,Mobile,Affiliate,2023-03-13
+1599,49,UK,Mobile,Affiliate,2023-05-03
+1600,37,UK,Tablet,Referral,2023-11-26
+1601,20,USA,Mobile,Facebook Ads,2023-01-09
+1602,43,Thailand,Mobile,Affiliate,2023-01-22
+1603,52,Singapore,Tablet,Affiliate,2023-08-23
+1604,22,Thailand,Tablet,Google Ads,2023-04-30
+1605,59,Thailand,Desktop,Affiliate,2023-09-08
+1606,33,India,Tablet,Google Ads,2023-01-24
+1607,29,India,Mobile,Facebook Ads,2023-01-08
+1608,47,Germany,Mobile,Affiliate,2023-02-19
+1609,24,Thailand,Desktop,Affiliate,2023-02-02
+1610,32,Thailand,Mobile,Referral,2023-11-12
+1611,43,USA,Mobile,Affiliate,2023-06-22
+1612,26,USA,Mobile,Organic,2023-10-07
+1613,29,USA,Mobile,Organic,2023-10-31
+1614,27,Australia,Desktop,Google Ads,2023-05-21
+1615,41,Germany,Mobile,Referral,2023-12-23
+1616,55,Thailand,Mobile,Organic,2023-05-05
+1617,57,UK,Mobile,Organic,2023-11-20
+1618,23,Thailand,Mobile,Google Ads,2023-09-07
+1619,59,Germany,Desktop,Referral,2023-02-15
+1620,48,India,Mobile,Google Ads,2023-12-22
+1621,58,USA,Tablet,Referral,2023-03-15
+1622,33,Singapore,Tablet,Organic,2023-07-30
+1623,29,India,Desktop,Affiliate,2023-11-02
+1624,58,Australia,Desktop,Facebook Ads,2023-02-15
+1625,18,Germany,Mobile,Google Ads,2023-08-03
+1626,51,Thailand,Tablet,Facebook Ads,2023-03-02
+1627,50,Singapore,Desktop,Google Ads,2023-10-04
+1628,21,Singapore,Mobile,Google Ads,2023-05-22
+1629,48,UK,Mobile,Google Ads,2023-12-17
+1630,20,Thailand,Tablet,Facebook Ads,2023-12-10
+1631,31,UK,Desktop,Facebook Ads,2023-05-26
+1632,47,Thailand,Mobile,Organic,2023-11-12
+1633,29,Singapore,Mobile,Referral,2023-10-03
+1634,25,Thailand,Mobile,Referral,2023-09-21
+1635,55,USA,Desktop,Google Ads,2023-10-31
+1636,38,Singapore,Mobile,Facebook Ads,2023-12-13
+1637,24,Singapore,Tablet,Referral,2023-04-27
+1638,42,Singapore,Mobile,Referral,2023-04-13
+1639,49,Thailand,Desktop,Google Ads,2023-10-27
+1640,57,UK,Mobile,Referral,2023-04-21
+1641,26,UK,Tablet,Google Ads,2023-07-11
+1642,40,USA,Mobile,Facebook Ads,2023-11-20
+1643,20,India,Tablet,Organic,2023-03-07
+1644,26,Thailand,Desktop,Referral,2023-05-24
+1645,28,Australia,Desktop,Google Ads,2023-08-03
+1646,56,Singapore,Tablet,Affiliate,2023-06-01
+1647,54,Germany,Mobile,Organic,2023-03-29
+1648,51,UK,Mobile,Affiliate,2023-07-30
+1649,47,USA,Mobile,Referral,2023-08-31
+1650,33,USA,Desktop,Affiliate,2023-05-07
+1651,55,Singapore,Tablet,Organic,2023-04-24
+1652,20,Thailand,Desktop,Affiliate,2023-08-02
+1653,45,Germany,Desktop,Referral,2023-01-18
+1654,24,UK,Desktop,Google Ads,2023-12-23
+1655,53,Australia,Mobile,Referral,2023-02-12
+1656,26,USA,Desktop,Google Ads,2023-04-22
+1657,23,Thailand,Desktop,Facebook Ads,2023-11-28
+1658,47,Australia,Tablet,Affiliate,2023-03-24
+1659,47,UK,Mobile,Referral,2023-01-13
+1660,41,India,Desktop,Organic,2023-04-05
+1661,22,UK,Tablet,Facebook Ads,2023-11-18
+1662,20,USA,Desktop,Facebook Ads,2023-09-29
+1663,57,Germany,Tablet,Google Ads,2023-12-24
+1664,23,Germany,Desktop,Organic,2023-12-17
+1665,41,Thailand,Mobile,Referral,2023-09-21
+1666,47,Germany,Mobile,Facebook Ads,2023-07-07
+1667,29,India,Tablet,Organic,2023-07-07
+1668,31,Singapore,Desktop,Google Ads,2023-10-15
+1669,25,India,Desktop,Affiliate,2023-10-04
+1670,31,Australia,Tablet,Google Ads,2023-12-26
+1671,40,USA,Tablet,Referral,2023-06-14
+1672,21,Thailand,Desktop,Facebook Ads,2023-05-22
+1673,49,Germany,Tablet,Organic,2023-08-20
+1674,52,India,Tablet,Facebook Ads,2023-08-29
+1675,57,USA,Tablet,Organic,2023-08-20
+1676,47,Thailand,Mobile,Referral,2023-04-07
+1677,36,Thailand,Mobile,Google Ads,2023-04-02
+1678,25,India,Mobile,Referral,2023-05-22
+1679,31,Germany,Tablet,Organic,2023-03-19
+1680,44,India,Tablet,Google Ads,2023-05-31
+1681,40,UK,Desktop,Organic,2023-08-31
+1682,30,Thailand,Mobile,Google Ads,2023-05-30
+1683,59,USA,Desktop,Affiliate,2023-09-24
+1684,59,India,Desktop,Referral,2023-06-25
+1685,60,India,Tablet,Affiliate,2023-10-31
+1686,47,USA,Tablet,Google Ads,2023-08-16
+1687,28,Australia,Desktop,Google Ads,2023-06-06
+1688,41,USA,Mobile,Google Ads,2023-09-05
+1689,36,UK,Mobile,Affiliate,2023-06-30
+1690,52,USA,Mobile,Google Ads,2023-03-24
+1691,60,Australia,Mobile,Google Ads,2023-12-29
+1692,25,Thailand,Desktop,Affiliate,2023-05-02
+1693,46,USA,Desktop,Google Ads,2023-03-06
+1694,53,India,Mobile,Facebook Ads,2023-04-16
+1695,27,USA,Desktop,Affiliate,2023-06-26
+1696,52,USA,Mobile,Organic,2023-03-25
+1697,49,Australia,Mobile,Referral,2023-07-27
+1698,27,Thailand,Tablet,Affiliate,2023-06-13
+1699,39,India,Tablet,Facebook Ads,2023-09-17
+1700,36,Australia,Tablet,Google Ads,2023-08-31
+1701,46,USA,Tablet,Organic,2023-10-17
+1702,20,Singapore,Tablet,Affiliate,2023-09-03
+1703,37,Thailand,Desktop,Affiliate,2023-03-01
+1704,46,USA,Mobile,Facebook Ads,2023-04-23
+1705,56,India,Mobile,Affiliate,2023-01-29
+1706,32,Australia,Desktop,Google Ads,2023-09-27
+1707,23,Germany,Desktop,Organic,2023-01-12
+1708,43,Singapore,Desktop,Facebook Ads,2023-09-20
+1709,56,Germany,Mobile,Facebook Ads,2023-11-05
+1710,27,India,Desktop,Facebook Ads,2023-07-23
+1711,41,Thailand,Desktop,Facebook Ads,2023-07-17
+1712,37,UK,Tablet,Organic,2023-06-29
+1713,46,India,Desktop,Referral,2023-04-21
+1714,28,Australia,Tablet,Referral,2023-05-28
+1715,26,Australia,Tablet,Affiliate,2023-08-01
+1716,27,Singapore,Desktop,Referral,2023-02-14
+1717,39,Thailand,Tablet,Referral,2023-09-26
+1718,18,UK,Tablet,Facebook Ads,2023-02-15
+1719,29,Germany,Desktop,Affiliate,2023-08-01
+1720,30,Singapore,Desktop,Facebook Ads,2023-03-12
+1721,49,Thailand,Desktop,Affiliate,2023-10-11
+1722,49,Germany,Tablet,Referral,2023-06-05
+1723,19,Australia,Mobile,Google Ads,2023-04-25
+1724,37,India,Tablet,Referral,2023-05-15
+1725,59,India,Desktop,Referral,2023-03-05
+1726,49,India,Tablet,Google Ads,2023-04-02
+1727,25,Australia,Desktop,Referral,2023-01-15
+1728,56,India,Desktop,Affiliate,2023-02-04
+1729,54,UK,Desktop,Referral,2023-09-04
+1730,25,USA,Tablet,Affiliate,2023-12-22
+1731,34,Singapore,Tablet,Organic,2023-01-09
+1732,38,UK,Tablet,Google Ads,2023-03-16
+1733,28,Thailand,Desktop,Facebook Ads,2023-07-02
+1734,58,USA,Mobile,Facebook Ads,2023-08-03
+1735,51,India,Mobile,Affiliate,2023-05-30
+1736,58,Singapore,Mobile,Affiliate,2023-04-10
+1737,52,USA,Desktop,Facebook Ads,2023-03-27
+1738,41,Thailand,Tablet,Affiliate,2023-05-19
+1739,27,Thailand,Mobile,Affiliate,2023-06-30
+1740,41,Australia,Desktop,Referral,2023-05-25
+1741,28,Thailand,Mobile,Google Ads,2023-06-24
+1742,32,Australia,Mobile,Affiliate,2023-09-15
+1743,51,Australia,Tablet,Affiliate,2023-11-11
+1744,25,UK,Desktop,Organic,2023-12-26
+1745,26,Thailand,Desktop,Facebook Ads,2023-03-01
+1746,41,Singapore,Desktop,Affiliate,2023-06-09
+1747,39,Singapore,Tablet,Facebook Ads,2023-09-25
+1748,25,Singapore,Mobile,Google Ads,2023-01-15
+1749,32,USA,Mobile,Google Ads,2023-12-19
+1750,23,UK,Tablet,Organic,2023-03-08
+1751,19,Australia,Desktop,Referral,2023-02-09
+1752,30,Thailand,Mobile,Affiliate,2023-01-22
+1753,21,UK,Mobile,Facebook Ads,2023-10-31
+1754,22,USA,Tablet,Organic,2023-01-23
+1755,25,Germany,Mobile,Affiliate,2023-02-19
+1756,29,India,Desktop,Organic,2023-04-13
+1757,27,Australia,Tablet,Facebook Ads,2023-02-16
+1758,40,USA,Mobile,Affiliate,2023-10-24
+1759,33,Germany,Tablet,Organic,2023-11-10
+1760,55,Australia,Mobile,Affiliate,2023-02-20
+1761,30,USA,Mobile,Affiliate,2023-04-22
+1762,24,Singapore,Tablet,Referral,2023-01-03
+1763,55,Singapore,Desktop,Organic,2023-07-07
+1764,40,UK,Desktop,Google Ads,2023-04-03
+1765,32,UK,Mobile,Facebook Ads,2023-09-21
+1766,47,Thailand,Tablet,Google Ads,2023-03-05
+1767,41,India,Desktop,Affiliate,2023-09-11
+1768,23,USA,Desktop,Organic,2023-01-21
+1769,36,UK,Tablet,Facebook Ads,2023-07-17
+1770,46,Singapore,Tablet,Referral,2023-12-18
+1771,45,Singapore,Mobile,Referral,2023-05-29
+1772,41,Singapore,Mobile,Referral,2023-12-14
+1773,24,UK,Desktop,Affiliate,2023-12-11
+1774,23,Thailand,Mobile,Referral,2023-12-04
+1775,55,Thailand,Tablet,Google Ads,2023-07-25
+1776,41,Singapore,Desktop,Google Ads,2023-02-03
+1777,43,Thailand,Mobile,Referral,2023-11-01
+1778,35,Australia,Tablet,Affiliate,2023-09-13
+1779,35,Australia,Tablet,Referral,2023-10-31
+1780,48,India,Tablet,Referral,2023-07-02
+1781,50,USA,Mobile,Referral,2023-09-06
+1782,25,USA,Desktop,Referral,2023-02-25
+1783,58,Singapore,Mobile,Organic,2023-04-29
+1784,22,UK,Tablet,Organic,2023-01-28
+1785,42,Germany,Tablet,Facebook Ads,2023-04-02
+1786,37,Germany,Tablet,Organic,2023-03-20
+1787,60,Australia,Tablet,Referral,2023-02-09
+1788,30,USA,Tablet,Referral,2023-08-27
+1789,50,USA,Tablet,Facebook Ads,2023-09-09
+1790,52,Thailand,Mobile,Referral,2023-10-04
+1791,42,UK,Desktop,Referral,2023-03-02
+1792,47,Thailand,Mobile,Google Ads,2023-08-15
+1793,60,Australia,Desktop,Google Ads,2023-10-13
+1794,45,Singapore,Desktop,Referral,2023-09-09
+1795,25,Germany,Tablet,Referral,2023-09-07
+1796,53,India,Tablet,Affiliate,2023-12-04
+1797,48,Germany,Mobile,Affiliate,2023-08-29
+1798,43,USA,Desktop,Affiliate,2023-01-29
+1799,57,India,Desktop,Facebook Ads,2023-07-13
+1800,21,Thailand,Tablet,Organic,2023-06-14
+1801,41,USA,Tablet,Affiliate,2023-03-07
+1802,58,USA,Desktop,Organic,2023-01-14
+1803,40,USA,Desktop,Facebook Ads,2023-08-08
+1804,60,Singapore,Mobile,Google Ads,2023-01-29
+1805,37,Germany,Mobile,Organic,2023-11-28
+1806,25,USA,Mobile,Organic,2023-06-06
+1807,38,Thailand,Desktop,Referral,2023-10-03
+1808,50,UK,Desktop,Organic,2023-10-18
+1809,48,Germany,Mobile,Facebook Ads,2023-12-23
+1810,54,UK,Desktop,Affiliate,2023-07-13
+1811,49,Thailand,Tablet,Google Ads,2023-02-20
+1812,49,Germany,Tablet,Facebook Ads,2023-06-22
+1813,57,USA,Desktop,Referral,2023-03-27
+1814,49,India,Mobile,Affiliate,2023-04-14
+1815,36,USA,Mobile,Facebook Ads,2023-04-20
+1816,43,Australia,Mobile,Affiliate,2023-10-21
+1817,55,Thailand,Tablet,Facebook Ads,2023-02-17
+1818,22,Germany,Tablet,Referral,2023-05-20
+1819,31,USA,Mobile,Facebook Ads,2023-08-07
+1820,37,UK,Tablet,Affiliate,2023-09-16
+1821,30,UK,Desktop,Facebook Ads,2023-06-10
+1822,50,UK,Tablet,Affiliate,2023-11-16
+1823,19,India,Tablet,Affiliate,2023-04-03
+1824,54,UK,Mobile,Referral,2023-04-06
+1825,58,Germany,Tablet,Referral,2023-05-18
+1826,58,Thailand,Tablet,Google Ads,2023-10-17
+1827,47,Singapore,Mobile,Google Ads,2023-07-06
+1828,37,Australia,Desktop,Referral,2023-12-17
+1829,22,India,Mobile,Referral,2023-06-13
+1830,36,India,Mobile,Facebook Ads,2023-05-17
+1831,56,Singapore,Desktop,Google Ads,2023-12-18
+1832,27,Singapore,Mobile,Google Ads,2023-02-28
+1833,47,UK,Tablet,Referral,2023-06-08
+1834,59,Thailand,Mobile,Google Ads,2023-08-05
+1835,26,Thailand,Desktop,Facebook Ads,2023-05-20
+1836,53,Singapore,Tablet,Organic,2023-12-04
+1837,19,Thailand,Mobile,Facebook Ads,2023-09-06
+1838,37,Australia,Mobile,Referral,2023-11-05
+1839,60,India,Mobile,Referral,2023-07-06
+1840,33,Thailand,Tablet,Affiliate,2023-03-13
+1841,51,India,Tablet,Affiliate,2023-03-03
+1842,49,Thailand,Mobile,Affiliate,2023-05-09
+1843,38,USA,Tablet,Referral,2023-03-04
+1844,45,Singapore,Mobile,Organic,2023-05-01
+1845,31,USA,Desktop,Referral,2023-03-31
+1846,55,Thailand,Desktop,Affiliate,2023-05-11
+1847,25,USA,Tablet,Referral,2023-07-11
+1848,33,USA,Mobile,Facebook Ads,2023-09-01
+1849,41,Australia,Desktop,Organic,2023-09-01
+1850,56,Thailand,Tablet,Organic,2023-11-27
+1851,60,Singapore,Desktop,Affiliate,2023-12-20
+1852,37,India,Tablet,Facebook Ads,2023-07-16
+1853,25,Germany,Mobile,Referral,2023-12-17
+1854,18,UK,Desktop,Facebook Ads,2023-07-18
+1855,33,USA,Mobile,Google Ads,2023-02-16
+1856,58,USA,Tablet,Referral,2023-08-13
+1857,35,Australia,Mobile,Referral,2023-01-18
+1858,44,Australia,Desktop,Referral,2023-08-30
+1859,28,India,Desktop,Affiliate,2023-02-21
+1860,40,UK,Tablet,Affiliate,2023-02-03
+1861,47,India,Mobile,Organic,2023-06-17
+1862,59,Singapore,Tablet,Referral,2023-11-25
+1863,26,Thailand,Desktop,Google Ads,2023-11-25
+1864,37,USA,Tablet,Organic,2023-11-18
+1865,28,Singapore,Tablet,Google Ads,2023-02-26
+1866,44,Australia,Desktop,Referral,2023-11-01
+1867,26,USA,Mobile,Affiliate,2023-09-02
+1868,36,Singapore,Mobile,Referral,2023-06-17
+1869,29,UK,Desktop,Affiliate,2023-07-08
+1870,19,Thailand,Tablet,Affiliate,2023-04-25
+1871,32,Thailand,Desktop,Google Ads,2023-11-17
+1872,28,Thailand,Desktop,Affiliate,2023-05-15
+1873,56,USA,Mobile,Organic,2023-08-08
+1874,28,Germany,Mobile,Organic,2023-07-08
+1875,45,Australia,Desktop,Referral,2023-09-27
+1876,32,India,Mobile,Google Ads,2023-03-02
+1877,36,India,Desktop,Referral,2023-05-17
+1878,45,Australia,Mobile,Affiliate,2023-03-08
+1879,36,India,Tablet,Google Ads,2023-04-21
+1880,29,UK,Mobile,Organic,2023-08-03
+1881,34,Singapore,Tablet,Referral,2023-05-29
+1882,41,Germany,Tablet,Referral,2023-05-08
+1883,18,UK,Mobile,Facebook Ads,2023-02-13
+1884,43,India,Mobile,Referral,2023-12-21
+1885,45,India,Tablet,Facebook Ads,2023-12-29
+1886,24,Germany,Mobile,Organic,2023-02-07
+1887,33,UK,Desktop,Affiliate,2023-06-20
+1888,56,India,Tablet,Organic,2023-12-10
+1889,34,Germany,Tablet,Referral,2023-01-03
+1890,43,India,Desktop,Google Ads,2023-06-04
+1891,20,Germany,Mobile,Facebook Ads,2023-10-14
+1892,50,UK,Desktop,Referral,2023-03-28
+1893,23,USA,Tablet,Affiliate,2023-03-09
+1894,27,USA,Mobile,Facebook Ads,2023-08-10
+1895,26,UK,Desktop,Facebook Ads,2023-01-23
+1896,36,USA,Tablet,Facebook Ads,2023-08-09
+1897,38,UK,Mobile,Facebook Ads,2023-09-22
+1898,27,Germany,Tablet,Referral,2023-09-09
+1899,30,Singapore,Mobile,Google Ads,2023-01-28
+1900,20,UK,Desktop,Google Ads,2023-04-04
+1901,47,UK,Mobile,Referral,2023-12-28
+1902,46,USA,Tablet,Affiliate,2023-01-21
+1903,47,UK,Mobile,Google Ads,2023-09-06
+1904,40,Thailand,Mobile,Facebook Ads,2023-03-05
+1905,28,India,Tablet,Facebook Ads,2023-04-03
+1906,60,Germany,Mobile,Affiliate,2023-10-16
+1907,51,Australia,Tablet,Google Ads,2023-01-03
+1908,22,Singapore,Desktop,Organic,2023-08-02
+1909,19,USA,Tablet,Organic,2023-06-18
+1910,41,Germany,Mobile,Facebook Ads,2023-07-21
+1911,19,Thailand,Desktop,Referral,2023-03-20
+1912,58,USA,Tablet,Organic,2023-08-21
+1913,20,India,Tablet,Referral,2023-06-18
+1914,54,Singapore,Mobile,Organic,2023-06-16
+1915,36,USA,Mobile,Organic,2023-11-26
+1916,56,UK,Mobile,Referral,2023-10-08
+1917,29,Singapore,Desktop,Organic,2023-05-11
+1918,31,Singapore,Desktop,Referral,2023-01-11
+1919,59,Australia,Tablet,Google Ads,2023-05-26
+1920,37,UK,Desktop,Facebook Ads,2023-03-03
+1921,56,Singapore,Desktop,Organic,2023-12-17
+1922,50,Singapore,Desktop,Referral,2023-07-08
+1923,48,USA,Tablet,Affiliate,2023-07-18
+1924,23,Australia,Desktop,Facebook Ads,2023-08-05
+1925,29,UK,Tablet,Referral,2023-11-11
+1926,20,Germany,Desktop,Referral,2023-02-17
+1927,32,India,Tablet,Google Ads,2023-12-13
+1928,51,India,Tablet,Affiliate,2023-09-11
+1929,36,UK,Desktop,Organic,2023-02-12
+1930,37,Singapore,Mobile,Facebook Ads,2023-09-02
+1931,51,UK,Desktop,Affiliate,2023-05-08
+1932,53,Thailand,Mobile,Affiliate,2023-01-25
+1933,50,UK,Desktop,Organic,2023-02-25
+1934,60,India,Tablet,Facebook Ads,2023-08-26
+1935,34,Germany,Mobile,Affiliate,2023-07-01
+1936,25,India,Tablet,Referral,2023-01-09
+1937,29,Australia,Desktop,Organic,2023-04-02
+1938,44,India,Desktop,Facebook Ads,2023-02-12
+1939,47,Australia,Tablet,Referral,2023-10-28
+1940,34,USA,Mobile,Google Ads,2023-11-16
+1941,23,India,Tablet,Facebook Ads,2023-04-05
+1942,24,UK,Tablet,Organic,2023-12-11
+1943,43,Thailand,Mobile,Google Ads,2023-01-03
+1944,48,UK,Tablet,Referral,2023-12-02
+1945,56,India,Desktop,Facebook Ads,2023-12-03
+1946,57,USA,Tablet,Referral,2023-11-13
+1947,23,Singapore,Mobile,Organic,2023-06-04
+1948,25,Australia,Mobile,Google Ads,2023-04-08
+1949,31,UK,Tablet,Google Ads,2023-01-14
+1950,33,UK,Tablet,Affiliate,2023-11-29
+1951,23,USA,Desktop,Google Ads,2023-04-08
+1952,45,Thailand,Mobile,Google Ads,2023-08-31
+1953,46,UK,Desktop,Organic,2023-03-20
+1954,55,Singapore,Mobile,Facebook Ads,2023-08-19
+1955,43,Thailand,Desktop,Organic,2023-10-19
+1956,58,Australia,Tablet,Referral,2023-02-22
+1957,49,India,Tablet,Affiliate,2023-08-01
+1958,36,Thailand,Desktop,Referral,2023-10-11
+1959,50,Germany,Tablet,Affiliate,2023-09-06
+1960,49,Singapore,Tablet,Organic,2023-12-14
+1961,19,UK,Tablet,Facebook Ads,2023-09-28
+1962,22,USA,Tablet,Referral,2023-10-11
+1963,25,UK,Tablet,Facebook Ads,2023-08-31
+1964,45,Thailand,Mobile,Facebook Ads,2023-08-18
+1965,48,USA,Desktop,Google Ads,2023-04-09
+1966,32,Germany,Tablet,Facebook Ads,2023-09-17
+1967,60,UK,Mobile,Facebook Ads,2023-11-05
+1968,42,UK,Tablet,Facebook Ads,2023-12-31
+1969,28,Germany,Mobile,Facebook Ads,2023-08-30
+1970,23,India,Desktop,Google Ads,2023-12-20
+1971,30,Singapore,Tablet,Referral,2023-03-30
+1972,44,UK,Desktop,Google Ads,2023-02-21
+1973,53,Thailand,Mobile,Facebook Ads,2023-04-18
+1974,40,India,Mobile,Google Ads,2023-05-14
+1975,20,Australia,Mobile,Facebook Ads,2023-09-15
+1976,25,Germany,Mobile,Organic,2023-08-09
+1977,32,UK,Desktop,Facebook Ads,2023-10-15
+1978,20,Australia,Tablet,Facebook Ads,2023-07-01
+1979,50,Germany,Tablet,Organic,2023-03-19
+1980,21,UK,Desktop,Organic,2023-12-28
+1981,57,Germany,Mobile,Affiliate,2023-02-24
+1982,50,Thailand,Mobile,Organic,2023-01-22
+1983,41,Singapore,Tablet,Facebook Ads,2023-04-16
+1984,46,Australia,Tablet,Referral,2023-12-29
+1985,27,India,Desktop,Facebook Ads,2023-02-20
+1986,25,Australia,Mobile,Referral,2023-03-12
+1987,18,Singapore,Desktop,Facebook Ads,2023-08-01
+1988,50,Singapore,Mobile,Facebook Ads,2023-05-27
+1989,44,USA,Tablet,Google Ads,2023-07-10
+1990,51,UK,Mobile,Google Ads,2023-03-19
+1991,44,UK,Desktop,Affiliate,2023-08-08
+1992,41,Thailand,Desktop,Google Ads,2023-12-16
+1993,51,Thailand,Mobile,Facebook Ads,2023-01-06
+1994,43,Australia,Mobile,Referral,2023-06-11
+1995,43,Australia,Mobile,Google Ads,2023-02-01
+1996,21,India,Tablet,Affiliate,2023-10-22
+1997,44,UK,Tablet,Affiliate,2023-06-01
+1998,38,USA,Mobile,Facebook Ads,2023-06-05
+1999,57,Singapore,Tablet,Referral,2023-09-28
+2000,59,Singapore,Tablet,Affiliate,2023-08-17
+2001,59,UK,Tablet,Facebook Ads,2023-11-13
+2002,43,Australia,Mobile,Facebook Ads,2023-11-29
+2003,20,Germany,Desktop,Referral,2023-02-13
+2004,51,Germany,Desktop,Google Ads,2023-03-06
+2005,50,Germany,Desktop,Affiliate,2023-02-17
+2006,58,Singapore,Mobile,Organic,2023-06-24
+2007,55,USA,Mobile,Facebook Ads,2023-10-04
+2008,50,Thailand,Tablet,Organic,2023-08-05
+2009,34,India,Tablet,Facebook Ads,2023-07-10
+2010,21,Australia,Tablet,Organic,2023-03-05
+2011,37,Germany,Tablet,Organic,2023-08-18
+2012,39,Singapore,Tablet,Affiliate,2023-08-21
+2013,58,India,Tablet,Affiliate,2023-10-17
+2014,40,USA,Desktop,Affiliate,2023-04-30
+2015,26,India,Desktop,Affiliate,2023-12-11
+2016,24,USA,Tablet,Affiliate,2023-05-07
+2017,41,UK,Mobile,Google Ads,2023-04-09
+2018,45,Australia,Desktop,Organic,2023-12-31
+2019,21,UK,Mobile,Referral,2023-02-17
+2020,46,Thailand,Desktop,Affiliate,2023-04-20
+2021,55,Germany,Tablet,Referral,2023-07-26
+2022,55,UK,Tablet,Referral,2023-05-16
+2023,49,India,Desktop,Google Ads,2023-08-14
+2024,50,Singapore,Desktop,Referral,2023-03-15
+2025,50,Australia,Tablet,Organic,2023-03-08
+2026,31,UK,Desktop,Organic,2023-12-22
+2027,53,USA,Mobile,Affiliate,2023-03-22
+2028,25,Thailand,Desktop,Affiliate,2023-07-29
+2029,20,Germany,Mobile,Organic,2023-05-29
+2030,37,USA,Desktop,Facebook Ads,2023-07-10
+2031,19,Australia,Mobile,Google Ads,2023-09-06
+2032,44,Thailand,Desktop,Facebook Ads,2023-10-29
+2033,29,Australia,Tablet,Referral,2023-04-21
+2034,25,Germany,Desktop,Organic,2023-01-02
+2035,44,UK,Tablet,Facebook Ads,2023-01-23
+2036,46,USA,Desktop,Referral,2023-10-17
+2037,26,Australia,Mobile,Affiliate,2023-11-07
+2038,47,Australia,Desktop,Referral,2023-11-22
+2039,38,Thailand,Tablet,Affiliate,2023-03-18
+2040,42,Singapore,Desktop,Facebook Ads,2023-07-29
+2041,20,India,Desktop,Facebook Ads,2023-10-04
+2042,23,Australia,Mobile,Organic,2023-11-27
+2043,58,Australia,Tablet,Facebook Ads,2023-10-20
+2044,59,Thailand,Tablet,Affiliate,2023-10-15
+2045,30,Germany,Tablet,Affiliate,2023-02-13
+2046,54,Germany,Mobile,Referral,2023-01-28
+2047,19,Thailand,Tablet,Affiliate,2023-09-15
+2048,19,USA,Mobile,Google Ads,2023-04-03
+2049,55,UK,Mobile,Affiliate,2023-12-28
+2050,38,UK,Tablet,Organic,2023-11-07
+2051,19,USA,Desktop,Google Ads,2023-09-09
+2052,19,Australia,Tablet,Facebook Ads,2023-08-01
+2053,34,Thailand,Mobile,Organic,2023-07-15
+2054,28,USA,Mobile,Google Ads,2023-10-05
+2055,23,Singapore,Desktop,Referral,2023-05-11
+2056,28,Thailand,Tablet,Facebook Ads,2023-12-14
+2057,19,India,Mobile,Facebook Ads,2023-04-03
+2058,24,USA,Mobile,Referral,2023-07-19
+2059,34,UK,Mobile,Organic,2023-06-15
+2060,33,Australia,Tablet,Affiliate,2023-04-14
+2061,49,Germany,Tablet,Referral,2023-05-02
+2062,35,Thailand,Desktop,Referral,2023-02-28
+2063,44,Thailand,Desktop,Organic,2023-10-11
+2064,58,Singapore,Mobile,Facebook Ads,2023-07-28
+2065,55,India,Mobile,Google Ads,2023-10-11
+2066,59,Australia,Mobile,Facebook Ads,2023-10-12
+2067,44,UK,Mobile,Affiliate,2023-10-18
+2068,27,USA,Tablet,Google Ads,2023-04-15
+2069,52,UK,Tablet,Referral,2023-05-06
+2070,18,Australia,Desktop,Affiliate,2023-01-22
+2071,59,Singapore,Mobile,Organic,2023-05-29
+2072,35,Germany,Desktop,Referral,2023-09-04
+2073,58,Singapore,Tablet,Affiliate,2023-06-29
+2074,20,Singapore,Tablet,Affiliate,2023-05-25
+2075,22,USA,Mobile,Referral,2023-10-16
+2076,25,Australia,Mobile,Affiliate,2023-12-24
+2077,45,Singapore,Tablet,Affiliate,2023-05-24
+2078,39,India,Desktop,Referral,2023-06-12
+2079,33,India,Desktop,Facebook Ads,2023-05-20
+2080,47,Germany,Desktop,Organic,2023-04-18
+2081,26,India,Mobile,Affiliate,2023-12-21
+2082,18,Thailand,Tablet,Google Ads,2023-09-01
+2083,53,India,Tablet,Referral,2023-07-31
+2084,52,Thailand,Tablet,Organic,2023-07-21
+2085,19,Australia,Tablet,Referral,2023-10-03
+2086,25,USA,Desktop,Affiliate,2023-12-11
+2087,42,Singapore,Tablet,Organic,2023-07-03
+2088,47,USA,Mobile,Referral,2023-03-05
+2089,32,India,Mobile,Facebook Ads,2023-01-05
+2090,40,Singapore,Mobile,Affiliate,2023-12-15
+2091,37,Australia,Tablet,Google Ads,2023-11-17
+2092,49,USA,Mobile,Facebook Ads,2023-04-30
+2093,56,Singapore,Mobile,Google Ads,2023-09-10
+2094,43,Thailand,Desktop,Affiliate,2023-11-23
+2095,49,Singapore,Tablet,Google Ads,2023-09-14
+2096,54,India,Tablet,Affiliate,2023-12-04
+2097,29,Thailand,Tablet,Google Ads,2023-10-17
+2098,26,USA,Tablet,Google Ads,2023-02-03
+2099,35,Singapore,Tablet,Organic,2023-09-25
+2100,52,Germany,Desktop,Affiliate,2023-12-21
+2101,18,UK,Tablet,Organic,2023-08-21
+2102,45,Australia,Desktop,Facebook Ads,2023-06-15
+2103,51,UK,Desktop,Facebook Ads,2023-03-04
+2104,20,India,Mobile,Organic,2023-09-22
+2105,44,Germany,Desktop,Facebook Ads,2023-05-23
+2106,43,Singapore,Desktop,Organic,2023-01-03
+2107,19,India,Mobile,Referral,2023-10-20
+2108,33,Singapore,Mobile,Facebook Ads,2023-02-08
+2109,22,India,Tablet,Organic,2023-06-09
+2110,48,UK,Mobile,Affiliate,2023-01-15
+2111,39,Australia,Desktop,Google Ads,2023-11-17
+2112,48,Singapore,Desktop,Organic,2023-02-25
+2113,51,Australia,Mobile,Organic,2023-06-20
+2114,57,UK,Mobile,Referral,2023-11-04
+2115,25,Thailand,Mobile,Organic,2023-10-24
+2116,38,Australia,Tablet,Organic,2023-07-13
+2117,21,Australia,Desktop,Organic,2023-03-07
+2118,57,India,Desktop,Organic,2023-06-04
+2119,21,Germany,Mobile,Facebook Ads,2023-02-22
+2120,43,Thailand,Tablet,Referral,2023-07-15
+2121,56,Australia,Tablet,Affiliate,2023-04-30
+2122,47,UK,Desktop,Referral,2023-01-06
+2123,57,Thailand,Desktop,Organic,2023-11-14
+2124,51,USA,Tablet,Google Ads,2023-08-21
+2125,24,Thailand,Tablet,Organic,2023-02-25
+2126,30,Germany,Mobile,Affiliate,2023-10-31
+2127,40,UK,Desktop,Affiliate,2023-05-12
+2128,29,Singapore,Mobile,Organic,2023-08-16
+2129,26,USA,Tablet,Referral,2023-01-31
+2130,59,Australia,Desktop,Facebook Ads,2023-09-20
+2131,52,Australia,Mobile,Google Ads,2023-10-26
+2132,37,Germany,Desktop,Facebook Ads,2023-08-29
+2133,18,Germany,Tablet,Google Ads,2023-07-08
+2134,33,Germany,Tablet,Organic,2023-01-30
+2135,40,Singapore,Mobile,Google Ads,2023-08-05
+2136,39,Singapore,Tablet,Referral,2023-02-05
+2137,47,Germany,Tablet,Facebook Ads,2023-12-22
+2138,54,USA,Tablet,Facebook Ads,2023-10-24
+2139,39,Singapore,Mobile,Referral,2023-08-03
+2140,49,Singapore,Mobile,Google Ads,2023-01-22
+2141,32,UK,Tablet,Google Ads,2023-12-21
+2142,48,India,Desktop,Referral,2023-05-03
+2143,43,Singapore,Mobile,Facebook Ads,2023-04-16
+2144,22,USA,Mobile,Affiliate,2023-01-06
+2145,27,USA,Desktop,Google Ads,2023-02-28
+2146,55,Australia,Desktop,Organic,2023-11-20
+2147,30,Singapore,Desktop,Google Ads,2023-01-16
+2148,34,India,Mobile,Facebook Ads,2023-04-23
+2149,33,Singapore,Mobile,Organic,2023-10-11
+2150,34,Thailand,Mobile,Google Ads,2023-04-01
+2151,59,Australia,Mobile,Facebook Ads,2023-07-14
+2152,37,UK,Mobile,Facebook Ads,2023-04-18
+2153,60,Singapore,Tablet,Affiliate,2023-07-10
+2154,22,Thailand,Mobile,Google Ads,2023-08-11
+2155,30,Germany,Desktop,Facebook Ads,2023-04-08
+2156,56,UK,Tablet,Google Ads,2023-06-12
+2157,57,Germany,Mobile,Affiliate,2023-01-24
+2158,27,USA,Mobile,Organic,2023-05-31
+2159,35,Australia,Mobile,Affiliate,2023-11-19
+2160,49,Singapore,Tablet,Organic,2023-10-27
+2161,60,Germany,Mobile,Google Ads,2023-08-29
+2162,42,Australia,Tablet,Affiliate,2023-09-18
+2163,49,Germany,Desktop,Google Ads,2023-07-11
+2164,41,Germany,Tablet,Referral,2023-06-14
+2165,48,USA,Tablet,Referral,2023-09-11
+2166,55,India,Mobile,Google Ads,2023-11-23
+2167,30,UK,Mobile,Referral,2023-04-23
+2168,37,UK,Desktop,Affiliate,2023-04-22
+2169,41,USA,Tablet,Organic,2023-03-22
+2170,23,USA,Desktop,Affiliate,2023-03-10
+2171,32,Germany,Mobile,Referral,2023-06-30
+2172,57,USA,Desktop,Referral,2023-09-20
+2173,45,UK,Desktop,Referral,2023-08-28
+2174,35,UK,Mobile,Google Ads,2023-06-12
+2175,32,USA,Tablet,Organic,2023-08-15
+2176,23,USA,Tablet,Affiliate,2023-07-03
+2177,59,Thailand,Desktop,Google Ads,2023-10-07
+2178,25,Thailand,Desktop,Organic,2023-02-20
+2179,30,USA,Mobile,Facebook Ads,2023-10-07
+2180,37,India,Tablet,Facebook Ads,2023-05-09
+2181,56,Singapore,Tablet,Affiliate,2023-04-08
+2182,18,Australia,Desktop,Facebook Ads,2023-05-14
+2183,43,UK,Tablet,Organic,2023-06-27
+2184,59,Germany,Mobile,Referral,2023-08-30
+2185,32,India,Tablet,Google Ads,2023-04-27
+2186,32,Germany,Tablet,Affiliate,2023-08-31
+2187,47,USA,Mobile,Facebook Ads,2023-08-28
+2188,45,Australia,Tablet,Referral,2023-04-07
+2189,46,UK,Tablet,Organic,2023-04-18
+2190,26,Germany,Mobile,Facebook Ads,2023-07-11
+2191,49,Australia,Tablet,Facebook Ads,2023-01-05
+2192,32,UK,Desktop,Referral,2023-06-23
+2193,52,USA,Desktop,Affiliate,2023-12-20
+2194,54,Australia,Mobile,Google Ads,2023-01-12
+2195,39,Germany,Tablet,Affiliate,2023-03-20
+2196,54,Australia,Desktop,Referral,2023-11-08
+2197,43,Thailand,Tablet,Referral,2023-04-15
+2198,48,Thailand,Desktop,Affiliate,2023-04-07
+2199,58,USA,Mobile,Google Ads,2023-08-20
+2200,53,Singapore,Mobile,Affiliate,2023-02-23
+2201,19,Singapore,Mobile,Organic,2023-09-08
+2202,36,Singapore,Mobile,Facebook Ads,2023-07-17
+2203,51,Thailand,Desktop,Organic,2023-12-04
+2204,51,Thailand,Mobile,Facebook Ads,2023-07-08
+2205,43,Singapore,Mobile,Google Ads,2023-07-30
+2206,44,UK,Tablet,Organic,2023-10-02
+2207,31,Singapore,Mobile,Facebook Ads,2023-07-19
+2208,60,UK,Mobile,Affiliate,2023-08-10
+2209,37,Germany,Mobile,Affiliate,2023-10-22
+2210,47,USA,Mobile,Organic,2023-12-17
+2211,46,Thailand,Desktop,Affiliate,2023-03-15
+2212,51,USA,Tablet,Referral,2023-05-07
+2213,47,Germany,Mobile,Organic,2023-08-24
+2214,59,UK,Desktop,Facebook Ads,2023-05-28
+2215,57,Australia,Mobile,Referral,2023-07-20
+2216,29,Germany,Tablet,Referral,2023-05-08
+2217,42,India,Mobile,Affiliate,2023-08-23
+2218,43,India,Mobile,Google Ads,2023-02-18
+2219,35,India,Tablet,Facebook Ads,2023-03-22
+2220,22,India,Tablet,Google Ads,2023-12-08
+2221,44,Australia,Tablet,Organic,2023-09-10
+2222,22,Australia,Mobile,Affiliate,2023-07-08
+2223,44,UK,Mobile,Facebook Ads,2023-06-16
+2224,50,Thailand,Desktop,Organic,2023-04-17
+2225,58,India,Tablet,Referral,2023-02-07
+2226,39,India,Desktop,Google Ads,2023-07-15
+2227,20,Thailand,Desktop,Organic,2023-07-23
+2228,26,USA,Tablet,Referral,2023-12-30
+2229,47,Thailand,Mobile,Affiliate,2023-09-06
+2230,33,India,Desktop,Google Ads,2023-12-03
+2231,35,Australia,Mobile,Google Ads,2023-08-30
+2232,56,Thailand,Mobile,Facebook Ads,2023-01-10
+2233,52,India,Desktop,Google Ads,2023-03-05
+2234,60,Australia,Mobile,Facebook Ads,2023-02-09
+2235,46,USA,Mobile,Google Ads,2023-03-20
+2236,20,India,Tablet,Google Ads,2024-01-01
+2237,21,Australia,Tablet,Affiliate,2023-08-15
+2238,60,India,Tablet,Organic,2023-11-25
+2239,37,UK,Mobile,Affiliate,2023-07-19
+2240,21,Australia,Desktop,Google Ads,2023-01-03
+2241,41,Singapore,Mobile,Organic,2023-05-08
+2242,44,Thailand,Mobile,Facebook Ads,2023-01-09
+2243,60,Thailand,Mobile,Organic,2023-04-09
+2244,28,India,Mobile,Organic,2023-12-07
+2245,50,Thailand,Desktop,Facebook Ads,2023-08-01
+2246,58,Singapore,Tablet,Google Ads,2023-10-15
+2247,43,UK,Mobile,Google Ads,2023-10-05
+2248,24,USA,Desktop,Google Ads,2023-04-20
+2249,43,India,Desktop,Organic,2023-01-08
+2250,31,UK,Mobile,Organic,2023-07-19
+2251,35,India,Tablet,Facebook Ads,2023-12-03
+2252,22,Singapore,Desktop,Facebook Ads,2023-01-23
+2253,49,Thailand,Tablet,Affiliate,2023-11-03
+2254,28,USA,Mobile,Affiliate,2023-10-19
+2255,58,India,Desktop,Google Ads,2023-06-16
+2256,29,India,Tablet,Facebook Ads,2023-06-20
+2257,48,Thailand,Desktop,Organic,2023-12-08
+2258,55,UK,Desktop,Affiliate,2023-11-08
+2259,32,Germany,Tablet,Organic,2023-11-24
+2260,19,Germany,Mobile,Facebook Ads,2023-04-30
+2261,45,Australia,Mobile,Affiliate,2023-05-02
+2262,21,Singapore,Desktop,Referral,2023-02-10
+2263,30,Singapore,Desktop,Google Ads,2023-06-01
+2264,20,Singapore,Tablet,Affiliate,2023-11-25
+2265,39,Singapore,Desktop,Facebook Ads,2023-08-16
+2266,20,Germany,Desktop,Facebook Ads,2023-11-26
+2267,32,Australia,Tablet,Facebook Ads,2023-01-13
+2268,33,Singapore,Tablet,Organic,2023-06-25
+2269,33,Australia,Tablet,Google Ads,2023-12-07
+2270,42,Germany,Desktop,Google Ads,2023-11-08
+2271,58,Thailand,Mobile,Referral,2023-08-15
+2272,30,Thailand,Tablet,Google Ads,2023-02-05
+2273,26,Thailand,Mobile,Affiliate,2023-04-15
+2274,31,Singapore,Tablet,Organic,2023-10-09
+2275,47,USA,Mobile,Google Ads,2023-08-07
+2276,45,Singapore,Tablet,Google Ads,2023-05-06
+2277,36,Germany,Desktop,Google Ads,2023-06-05
+2278,48,Thailand,Desktop,Referral,2023-05-20
+2279,28,UK,Desktop,Referral,2023-07-13
+2280,57,India,Desktop,Google Ads,2023-09-16
+2281,19,Australia,Desktop,Referral,2023-09-04
+2282,37,Germany,Tablet,Google Ads,2023-02-12
+2283,29,USA,Desktop,Referral,2023-10-11
+2284,47,USA,Desktop,Affiliate,2023-06-06
+2285,48,Thailand,Desktop,Google Ads,2023-11-07
+2286,30,Singapore,Mobile,Organic,2023-08-29
+2287,50,India,Tablet,Facebook Ads,2023-01-07
+2288,43,UK,Desktop,Facebook Ads,2023-09-09
+2289,49,USA,Tablet,Affiliate,2023-07-16
+2290,44,Thailand,Mobile,Referral,2023-02-06
+2291,28,Singapore,Desktop,Facebook Ads,2023-10-17
+2292,50,India,Desktop,Facebook Ads,2023-06-28
+2293,21,India,Desktop,Referral,2023-12-23
+2294,33,UK,Mobile,Facebook Ads,2023-05-07
+2295,19,India,Tablet,Google Ads,2023-11-20
+2296,56,UK,Tablet,Google Ads,2023-05-14
+2297,33,Germany,Tablet,Google Ads,2023-05-11
+2298,25,Australia,Mobile,Referral,2023-01-07
+2299,55,Thailand,Tablet,Google Ads,2023-07-23
+2300,28,Australia,Desktop,Facebook Ads,2023-08-05
+2301,37,Germany,Tablet,Referral,2023-12-21
+2302,37,India,Desktop,Organic,2023-10-28
+2303,58,Germany,Desktop,Google Ads,2023-02-25
+2304,31,India,Desktop,Facebook Ads,2023-05-18
+2305,28,Australia,Desktop,Organic,2023-01-04
+2306,22,Australia,Tablet,Referral,2023-02-19
+2307,44,India,Desktop,Referral,2023-09-26
+2308,29,USA,Mobile,Google Ads,2023-03-29
+2309,49,Singapore,Tablet,Organic,2023-04-12
+2310,54,Australia,Mobile,Google Ads,2023-08-19
+2311,21,India,Mobile,Google Ads,2023-04-13
+2312,44,UK,Tablet,Affiliate,2023-05-13
+2313,58,Singapore,Mobile,Facebook Ads,2023-02-25
+2314,42,Thailand,Desktop,Organic,2023-02-13
+2315,19,Germany,Mobile,Referral,2023-06-25
+2316,24,Thailand,Mobile,Facebook Ads,2023-09-06
+2317,60,Germany,Mobile,Organic,2023-01-04
+2318,51,Australia,Mobile,Referral,2023-04-19
+2319,51,Australia,Desktop,Referral,2023-11-05
+2320,39,Germany,Desktop,Facebook Ads,2023-08-31
+2321,39,USA,Mobile,Facebook Ads,2023-07-09
+2322,43,UK,Tablet,Organic,2023-12-07
+2323,39,Australia,Mobile,Organic,2023-07-02
+2324,43,India,Mobile,Organic,2023-08-22
+2325,25,Australia,Tablet,Facebook Ads,2023-11-05
+2326,33,USA,Desktop,Affiliate,2023-12-25
+2327,60,Australia,Desktop,Affiliate,2023-12-18
+2328,60,Singapore,Mobile,Facebook Ads,2023-07-31
+2329,58,USA,Mobile,Facebook Ads,2023-01-09
+2330,46,Singapore,Tablet,Referral,2023-12-14
+2331,57,Australia,Mobile,Facebook Ads,2023-07-24
+2332,48,India,Tablet,Organic,2023-08-08
+2333,36,Germany,Mobile,Google Ads,2023-07-17
+2334,54,Australia,Tablet,Affiliate,2023-09-24
+2335,26,UK,Mobile,Facebook Ads,2023-01-17
+2336,53,Australia,Desktop,Google Ads,2023-12-11
+2337,25,UK,Tablet,Affiliate,2023-08-17
+2338,33,Singapore,Mobile,Organic,2023-05-04
+2339,45,India,Mobile,Google Ads,2023-02-24
+2340,42,Australia,Desktop,Google Ads,2023-06-17
+2341,60,UK,Tablet,Organic,2023-05-12
+2342,26,Germany,Tablet,Referral,2023-12-07
+2343,39,Australia,Mobile,Affiliate,2023-02-16
+2344,22,India,Desktop,Referral,2023-11-04
+2345,59,India,Tablet,Referral,2023-07-15
+2346,32,USA,Mobile,Facebook Ads,2023-04-30
+2347,25,Thailand,Desktop,Affiliate,2023-02-14
+2348,25,Germany,Desktop,Google Ads,2023-04-07
+2349,42,Germany,Tablet,Organic,2023-06-10
+2350,21,Germany,Tablet,Google Ads,2023-06-09
+2351,45,USA,Desktop,Google Ads,2023-07-18
+2352,60,Germany,Tablet,Google Ads,2023-09-24
+2353,43,Thailand,Tablet,Referral,2023-02-24
+2354,27,Australia,Desktop,Google Ads,2023-06-11
+2355,47,Singapore,Tablet,Facebook Ads,2023-09-13
+2356,60,Australia,Tablet,Organic,2023-03-16
+2357,38,USA,Tablet,Organic,2023-11-03
+2358,54,UK,Tablet,Google Ads,2023-05-21
+2359,36,India,Desktop,Organic,2023-09-11
+2360,27,Australia,Tablet,Google Ads,2023-06-20
+2361,21,Australia,Mobile,Referral,2023-04-26
+2362,37,Australia,Tablet,Google Ads,2023-07-20
+2363,53,UK,Desktop,Referral,2023-01-12
+2364,48,USA,Desktop,Referral,2023-12-14
+2365,51,India,Desktop,Facebook Ads,2023-02-06
+2366,30,India,Tablet,Referral,2023-12-23
+2367,26,USA,Tablet,Organic,2023-02-19
+2368,37,UK,Tablet,Google Ads,2023-12-30
+2369,26,UK,Tablet,Referral,2023-10-23
+2370,27,Singapore,Mobile,Google Ads,2023-05-30
+2371,18,USA,Tablet,Affiliate,2023-11-30
+2372,27,UK,Desktop,Google Ads,2023-02-22
+2373,24,USA,Desktop,Google Ads,2023-01-29
+2374,25,Germany,Tablet,Facebook Ads,2023-01-27
+2375,45,Singapore,Tablet,Referral,2023-10-31
+2376,20,Thailand,Mobile,Referral,2023-05-06
+2377,37,India,Tablet,Google Ads,2023-09-08
+2378,42,Australia,Tablet,Organic,2023-12-01
+2379,59,UK,Desktop,Referral,2023-08-26
+2380,18,Thailand,Mobile,Organic,2023-07-08
+2381,49,India,Tablet,Affiliate,2023-03-04
+2382,19,Germany,Tablet,Affiliate,2023-04-26
+2383,35,India,Tablet,Organic,2023-09-03
+2384,29,UK,Desktop,Referral,2023-10-31
+2385,54,Singapore,Mobile,Facebook Ads,2023-06-02
+2386,52,Singapore,Desktop,Organic,2023-02-02
+2387,53,Australia,Tablet,Affiliate,2023-07-21
+2388,22,Germany,Tablet,Affiliate,2023-09-08
+2389,59,Thailand,Mobile,Organic,2024-01-01
+2390,56,India,Mobile,Organic,2023-04-03
+2391,46,Australia,Desktop,Organic,2023-10-12
+2392,26,Germany,Mobile,Google Ads,2023-01-21
+2393,53,USA,Mobile,Organic,2023-02-14
+2394,50,USA,Desktop,Affiliate,2023-03-05
+2395,45,India,Mobile,Google Ads,2023-03-29
+2396,20,Germany,Desktop,Affiliate,2023-06-03
+2397,26,Germany,Desktop,Facebook Ads,2023-08-16
+2398,40,Germany,Tablet,Affiliate,2023-09-25
+2399,24,India,Mobile,Google Ads,2023-04-18
+2400,30,Singapore,Desktop,Google Ads,2023-01-19
+2401,56,Germany,Mobile,Affiliate,2023-03-10
+2402,35,Singapore,Tablet,Affiliate,2023-07-03
+2403,22,Germany,Desktop,Facebook Ads,2023-08-05
+2404,59,Singapore,Desktop,Referral,2023-07-15
+2405,34,India,Desktop,Google Ads,2023-02-12
+2406,31,Thailand,Tablet,Facebook Ads,2023-10-02
+2407,59,Singapore,Tablet,Facebook Ads,2023-11-21
+2408,60,India,Tablet,Affiliate,2023-10-16
+2409,44,Australia,Mobile,Facebook Ads,2023-03-25
+2410,42,Thailand,Tablet,Google Ads,2023-08-11
+2411,35,Thailand,Tablet,Organic,2023-02-09
+2412,53,UK,Mobile,Facebook Ads,2023-12-17
+2413,23,USA,Desktop,Facebook Ads,2023-11-24
+2414,32,USA,Mobile,Organic,2023-03-16
+2415,32,UK,Mobile,Organic,2023-07-13
+2416,51,India,Desktop,Affiliate,2023-03-31
+2417,24,Germany,Desktop,Affiliate,2023-09-08
+2418,53,USA,Tablet,Organic,2023-05-25
+2419,28,USA,Desktop,Google Ads,2023-01-25
+2420,52,Germany,Tablet,Referral,2023-06-26
+2421,55,Singapore,Desktop,Organic,2023-09-02
+2422,50,India,Mobile,Google Ads,2023-12-18
+2423,42,Germany,Tablet,Facebook Ads,2023-03-15
+2424,58,USA,Tablet,Google Ads,2023-01-28
+2425,56,UK,Tablet,Referral,2023-12-14
+2426,46,USA,Desktop,Affiliate,2023-04-04
+2427,35,UK,Tablet,Google Ads,2023-05-27
+2428,58,Australia,Mobile,Facebook Ads,2023-06-06
+2429,38,Australia,Mobile,Organic,2023-07-28
+2430,33,Thailand,Mobile,Affiliate,2023-02-09
+2431,23,India,Desktop,Affiliate,2023-01-30
+2432,18,UK,Tablet,Affiliate,2023-09-10
+2433,48,UK,Tablet,Affiliate,2023-03-11
+2434,25,UK,Mobile,Affiliate,2023-12-24
+2435,18,India,Desktop,Affiliate,2023-04-08
+2436,33,India,Tablet,Affiliate,2023-06-26
+2437,56,Thailand,Tablet,Referral,2023-12-17
+2438,51,Singapore,Mobile,Organic,2023-03-28
+2439,26,Germany,Desktop,Organic,2023-07-07
+2440,49,UK,Mobile,Facebook Ads,2023-08-05
+2441,39,India,Mobile,Affiliate,2023-02-27
+2442,36,USA,Desktop,Facebook Ads,2023-03-02
+2443,31,Thailand,Tablet,Affiliate,2023-05-16
+2444,31,USA,Tablet,Affiliate,2023-07-21
+2445,47,Germany,Desktop,Organic,2023-01-19
+2446,18,Germany,Desktop,Facebook Ads,2023-07-02
+2447,40,Thailand,Mobile,Facebook Ads,2023-06-02
+2448,43,USA,Mobile,Organic,2023-04-06
+2449,49,Singapore,Mobile,Affiliate,2023-08-09
+2450,27,UK,Mobile,Referral,2023-09-21
+2451,27,Australia,Tablet,Facebook Ads,2023-01-04
+2452,48,UK,Desktop,Facebook Ads,2023-04-26
+2453,45,Singapore,Tablet,Facebook Ads,2023-07-06
+2454,46,India,Desktop,Google Ads,2023-02-25
+2455,40,India,Desktop,Organic,2023-03-13
+2456,30,Thailand,Mobile,Facebook Ads,2023-07-03
+2457,26,UK,Desktop,Facebook Ads,2023-01-21
+2458,28,India,Mobile,Referral,2023-01-17
+2459,35,Thailand,Desktop,Referral,2023-12-07
+2460,49,Australia,Tablet,Google Ads,2023-10-09
+2461,43,Germany,Tablet,Referral,2023-06-16
+2462,25,Thailand,Mobile,Google Ads,2023-03-09
+2463,40,Germany,Mobile,Google Ads,2023-03-21
+2464,39,UK,Tablet,Organic,2023-01-27
+2465,48,USA,Desktop,Referral,2023-08-11
+2466,45,Singapore,Tablet,Google Ads,2023-02-12
+2467,29,Singapore,Desktop,Organic,2023-09-19
+2468,33,India,Desktop,Google Ads,2023-05-15
+2469,24,India,Tablet,Affiliate,2023-08-31
+2470,29,Singapore,Tablet,Google Ads,2023-11-09
+2471,25,Singapore,Desktop,Organic,2023-04-28
+2472,30,Singapore,Desktop,Organic,2023-05-21
+2473,30,Thailand,Mobile,Referral,2023-11-12
+2474,51,USA,Tablet,Google Ads,2023-07-28
+2475,39,UK,Desktop,Organic,2023-04-24
+2476,45,India,Mobile,Facebook Ads,2023-09-19
+2477,35,USA,Desktop,Facebook Ads,2023-02-26
+2478,44,Singapore,Desktop,Organic,2023-12-31
+2479,20,Thailand,Mobile,Facebook Ads,2023-04-04
+2480,36,UK,Desktop,Affiliate,2023-04-19
+2481,45,Singapore,Desktop,Referral,2023-02-21
+2482,39,USA,Mobile,Organic,2023-07-06
+2483,18,India,Tablet,Google Ads,2023-12-09
+2484,41,India,Desktop,Affiliate,2023-06-19
+2485,56,USA,Mobile,Facebook Ads,2023-09-28
+2486,55,UK,Mobile,Organic,2023-04-18
+2487,58,India,Tablet,Organic,2023-03-08
+2488,55,India,Mobile,Google Ads,2023-01-22
+2489,46,Thailand,Mobile,Affiliate,2023-12-27
+2490,39,USA,Tablet,Referral,2023-11-13
+2491,52,India,Mobile,Organic,2023-04-14
+2492,30,UK,Tablet,Facebook Ads,2023-03-07
+2493,40,USA,Desktop,Organic,2023-10-14
+2494,22,UK,Desktop,Affiliate,2023-08-12
+2495,19,Singapore,Tablet,Facebook Ads,2023-09-15
+2496,26,USA,Mobile,Affiliate,2023-12-23
+2497,30,India,Desktop,Referral,2023-02-01
+2498,52,Australia,Tablet,Organic,2023-12-17
+2499,46,Australia,Tablet,Referral,2023-03-26
+2500,42,UK,Tablet,Facebook Ads,2023-10-15
+2501,29,Thailand,Mobile,Affiliate,2023-04-16
+2502,55,India,Mobile,Affiliate,2023-04-22
+2503,50,India,Tablet,Affiliate,2023-08-22
+2504,37,Australia,Mobile,Facebook Ads,2023-05-13
+2505,35,Germany,Mobile,Google Ads,2023-12-29
+2506,20,Germany,Mobile,Facebook Ads,2023-04-25
+2507,58,Singapore,Desktop,Google Ads,2023-01-21
+2508,21,India,Mobile,Google Ads,2023-05-19
+2509,25,Thailand,Tablet,Facebook Ads,2023-10-01
+2510,56,USA,Desktop,Organic,2023-11-20
+2511,53,USA,Tablet,Google Ads,2023-12-28
+2512,57,USA,Desktop,Organic,2023-07-29
+2513,18,Australia,Desktop,Google Ads,2023-11-17
+2514,29,USA,Mobile,Affiliate,2023-05-24
+2515,55,Thailand,Tablet,Referral,2023-12-03
+2516,34,Australia,Tablet,Affiliate,2023-12-01
+2517,31,Australia,Desktop,Google Ads,2023-10-10
+2518,35,Singapore,Tablet,Referral,2023-06-16
+2519,46,Singapore,Tablet,Referral,2023-03-21
+2520,27,UK,Mobile,Referral,2023-07-08
+2521,47,Singapore,Mobile,Google Ads,2023-04-03
+2522,49,India,Mobile,Facebook Ads,2023-10-19
+2523,37,Singapore,Mobile,Referral,2023-01-11
+2524,56,Singapore,Mobile,Google Ads,2023-12-18
+2525,45,Singapore,Desktop,Referral,2023-02-06
+2526,51,Singapore,Tablet,Organic,2023-02-21
+2527,24,UK,Desktop,Organic,2023-11-05
+2528,18,Australia,Tablet,Organic,2023-02-26
+2529,33,Australia,Mobile,Facebook Ads,2023-03-09
+2530,58,Germany,Mobile,Organic,2023-03-15
+2531,52,India,Desktop,Organic,2023-02-24
+2532,26,UK,Tablet,Referral,2023-04-14
+2533,37,USA,Desktop,Google Ads,2023-03-25
+2534,21,Germany,Tablet,Facebook Ads,2023-05-05
+2535,52,Thailand,Mobile,Organic,2023-11-18
+2536,52,USA,Mobile,Affiliate,2023-02-22
+2537,27,Thailand,Mobile,Organic,2023-08-01
+2538,45,UK,Mobile,Facebook Ads,2023-04-27
+2539,36,Singapore,Tablet,Referral,2023-12-02
+2540,25,UK,Mobile,Organic,2023-12-18
+2541,24,USA,Desktop,Organic,2023-04-25
+2542,39,Thailand,Desktop,Organic,2023-11-12
+2543,56,Singapore,Mobile,Referral,2023-01-23
+2544,39,Germany,Mobile,Referral,2023-09-29
+2545,60,India,Desktop,Affiliate,2023-03-18
+2546,40,Thailand,Desktop,Referral,2023-05-27
+2547,41,USA,Tablet,Organic,2023-12-05
+2548,27,Australia,Tablet,Google Ads,2023-01-02
+2549,27,UK,Desktop,Referral,2023-06-13
+2550,25,Germany,Desktop,Facebook Ads,2023-02-04
+2551,23,USA,Mobile,Google Ads,2023-03-16
+2552,40,USA,Desktop,Referral,2023-07-17
+2553,44,Germany,Tablet,Facebook Ads,2023-09-04
+2554,59,Singapore,Desktop,Referral,2023-03-12
+2555,49,Germany,Tablet,Referral,2023-10-09
+2556,52,Australia,Mobile,Referral,2023-09-30
+2557,55,India,Desktop,Affiliate,2023-02-12
+2558,32,India,Mobile,Google Ads,2023-10-23
+2559,18,Singapore,Mobile,Facebook Ads,2023-07-05
+2560,48,Singapore,Mobile,Organic,2023-10-13
+2561,41,Australia,Mobile,Facebook Ads,2023-06-28
+2562,27,Australia,Tablet,Referral,2023-08-24
+2563,31,Australia,Mobile,Organic,2023-05-05
+2564,25,India,Tablet,Google Ads,2023-03-12
+2565,19,India,Desktop,Facebook Ads,2023-07-13
+2566,24,India,Tablet,Organic,2023-01-28
+2567,56,Australia,Mobile,Organic,2023-09-02
+2568,41,Singapore,Mobile,Google Ads,2023-03-17
+2569,18,Germany,Desktop,Google Ads,2023-02-09
+2570,48,India,Mobile,Affiliate,2023-04-04
+2571,37,UK,Desktop,Facebook Ads,2023-12-24
+2572,59,India,Mobile,Facebook Ads,2023-08-16
+2573,27,Thailand,Tablet,Organic,2023-02-26
+2574,29,Germany,Mobile,Organic,2023-11-06
+2575,45,India,Desktop,Affiliate,2023-07-22
+2576,34,Germany,Tablet,Facebook Ads,2023-12-31
+2577,32,UK,Mobile,Facebook Ads,2023-12-30
+2578,51,UK,Mobile,Google Ads,2023-02-17
+2579,57,Thailand,Mobile,Referral,2023-07-25
+2580,53,Germany,Mobile,Referral,2023-04-05
+2581,38,India,Tablet,Referral,2023-09-02
+2582,28,Thailand,Desktop,Referral,2023-07-14
+2583,35,Thailand,Mobile,Organic,2023-04-10
+2584,56,Australia,Desktop,Organic,2023-07-05
+2585,36,Singapore,Tablet,Organic,2023-05-03
+2586,31,Germany,Mobile,Facebook Ads,2023-02-03
+2587,53,Singapore,Tablet,Organic,2023-04-07
+2588,35,Thailand,Tablet,Affiliate,2023-05-04
+2589,54,Australia,Desktop,Organic,2023-01-23
+2590,38,Thailand,Desktop,Organic,2023-01-25
+2591,36,UK,Tablet,Google Ads,2023-07-02
+2592,43,India,Desktop,Google Ads,2023-06-11
+2593,24,USA,Desktop,Affiliate,2023-12-26
+2594,50,Australia,Mobile,Organic,2023-02-21
+2595,42,UK,Tablet,Organic,2023-10-28
+2596,28,Singapore,Tablet,Referral,2023-05-29
+2597,58,Thailand,Tablet,Google Ads,2023-02-10
+2598,59,Singapore,Tablet,Google Ads,2023-04-21
+2599,51,India,Tablet,Affiliate,2023-09-14
+2600,46,Australia,Mobile,Facebook Ads,2023-06-24
+2601,41,Germany,Desktop,Organic,2023-05-29
+2602,42,Singapore,Mobile,Affiliate,2023-12-31
+2603,22,Singapore,Tablet,Referral,2023-11-07
+2604,18,Singapore,Desktop,Affiliate,2023-02-19
+2605,49,Thailand,Desktop,Facebook Ads,2023-02-14
+2606,36,Singapore,Mobile,Facebook Ads,2023-03-28
+2607,41,USA,Mobile,Organic,2023-10-23
+2608,47,USA,Desktop,Facebook Ads,2023-04-02
+2609,59,Singapore,Mobile,Affiliate,2023-08-15
+2610,20,USA,Desktop,Referral,2023-09-07
+2611,57,India,Mobile,Referral,2023-07-29
+2612,50,Australia,Tablet,Facebook Ads,2023-07-07
+2613,23,India,Desktop,Affiliate,2023-07-11
+2614,34,India,Mobile,Affiliate,2023-08-19
+2615,21,India,Mobile,Affiliate,2023-11-26
+2616,27,Australia,Mobile,Facebook Ads,2023-01-05
+2617,28,Germany,Desktop,Organic,2023-07-12
+2618,42,Australia,Desktop,Organic,2023-04-25
+2619,47,UK,Tablet,Affiliate,2023-06-28
+2620,24,Thailand,Mobile,Organic,2023-08-27
+2621,45,Singapore,Desktop,Facebook Ads,2023-07-23
+2622,38,USA,Tablet,Referral,2023-02-03
+2623,48,Thailand,Desktop,Referral,2023-04-19
+2624,52,Singapore,Desktop,Google Ads,2023-01-20
+2625,31,USA,Tablet,Organic,2023-11-24
+2626,42,Thailand,Desktop,Referral,2023-11-04
+2627,31,Thailand,Mobile,Organic,2023-08-31
+2628,45,USA,Desktop,Google Ads,2023-12-17
+2629,27,Thailand,Desktop,Referral,2023-02-12
+2630,37,Australia,Tablet,Referral,2023-02-11
+2631,51,Singapore,Tablet,Facebook Ads,2023-08-03
+2632,21,Thailand,Desktop,Facebook Ads,2023-04-05
+2633,28,Singapore,Desktop,Referral,2023-06-02
+2634,48,Germany,Tablet,Google Ads,2023-09-04
+2635,45,USA,Tablet,Affiliate,2023-12-23
+2636,18,Germany,Tablet,Google Ads,2023-07-19
+2637,60,Germany,Tablet,Google Ads,2023-02-09
+2638,60,Australia,Tablet,Facebook Ads,2023-06-15
+2639,27,UK,Mobile,Referral,2023-01-08
+2640,25,Australia,Tablet,Referral,2023-06-12
+2641,51,India,Mobile,Referral,2023-05-15
+2642,58,UK,Tablet,Affiliate,2023-03-06
+2643,20,Singapore,Tablet,Google Ads,2023-02-19
+2644,52,Australia,Mobile,Affiliate,2023-08-04
+2645,31,USA,Mobile,Google Ads,2023-07-13
+2646,54,Thailand,Desktop,Facebook Ads,2023-12-14
+2647,37,USA,Tablet,Organic,2023-01-09
+2648,49,India,Desktop,Referral,2023-12-25
+2649,40,USA,Tablet,Referral,2023-07-30
+2650,39,Thailand,Mobile,Referral,2023-09-25
+2651,41,Singapore,Tablet,Affiliate,2023-08-08
+2652,52,UK,Desktop,Facebook Ads,2023-03-25
+2653,45,India,Desktop,Affiliate,2023-12-04
+2654,23,Australia,Mobile,Organic,2023-02-20
+2655,19,Germany,Desktop,Organic,2023-11-29
+2656,57,Germany,Mobile,Referral,2023-09-12
+2657,55,Australia,Mobile,Facebook Ads,2023-09-15
+2658,31,Singapore,Desktop,Affiliate,2023-08-04
+2659,25,Singapore,Desktop,Organic,2023-07-15
+2660,47,UK,Tablet,Referral,2023-06-29
+2661,41,Australia,Mobile,Affiliate,2023-01-04
+2662,35,India,Desktop,Facebook Ads,2023-05-26
+2663,33,Thailand,Desktop,Organic,2023-08-01
+2664,19,Singapore,Desktop,Affiliate,2023-01-08
+2665,38,USA,Mobile,Affiliate,2023-11-04
+2666,33,Germany,Desktop,Google Ads,2023-08-09
+2667,59,UK,Mobile,Affiliate,2023-11-12
+2668,26,India,Desktop,Google Ads,2023-08-08
+2669,38,Germany,Mobile,Referral,2023-07-26
+2670,24,India,Mobile,Affiliate,2023-04-29
+2671,58,Germany,Desktop,Facebook Ads,2023-03-02
+2672,28,USA,Mobile,Organic,2023-10-11
+2673,19,UK,Mobile,Affiliate,2023-02-17
+2674,19,Germany,Tablet,Affiliate,2023-03-20
+2675,54,UK,Mobile,Google Ads,2023-02-10
+2676,58,India,Desktop,Google Ads,2023-08-21
+2677,59,Singapore,Desktop,Google Ads,2023-05-03
+2678,33,India,Desktop,Facebook Ads,2023-10-02
+2679,21,USA,Mobile,Google Ads,2023-12-04
+2680,19,India,Tablet,Organic,2023-11-18
+2681,47,Germany,Mobile,Organic,2023-02-26
+2682,36,USA,Mobile,Organic,2023-03-14
+2683,49,Australia,Desktop,Google Ads,2023-02-09
+2684,24,UK,Mobile,Referral,2023-07-20
+2685,49,India,Mobile,Google Ads,2023-02-07
+2686,44,UK,Desktop,Referral,2023-12-18
+2687,29,USA,Mobile,Google Ads,2023-03-24
+2688,54,India,Tablet,Organic,2023-12-04
+2689,39,USA,Desktop,Affiliate,2023-03-02
+2690,52,Thailand,Mobile,Affiliate,2023-11-04
+2691,25,Singapore,Tablet,Organic,2023-05-11
+2692,19,Germany,Tablet,Google Ads,2023-10-02
+2693,41,Thailand,Mobile,Organic,2023-04-21
+2694,26,Singapore,Mobile,Google Ads,2023-06-17
+2695,35,UK,Mobile,Organic,2023-05-18
+2696,53,India,Desktop,Referral,2023-06-28
+2697,45,Germany,Desktop,Google Ads,2023-09-11
+2698,29,Singapore,Tablet,Facebook Ads,2023-05-09
+2699,24,Germany,Tablet,Facebook Ads,2023-07-21
+2700,31,India,Desktop,Referral,2023-03-26
+2701,45,Germany,Tablet,Facebook Ads,2023-08-17
+2702,57,Thailand,Tablet,Referral,2023-06-13
+2703,30,Germany,Desktop,Facebook Ads,2023-08-08
+2704,22,UK,Mobile,Organic,2023-11-20
+2705,34,Germany,Desktop,Facebook Ads,2023-09-19
+2706,59,Germany,Desktop,Referral,2023-11-06
+2707,25,Singapore,Desktop,Referral,2023-01-16
+2708,40,Singapore,Mobile,Google Ads,2023-04-06
+2709,41,USA,Mobile,Facebook Ads,2023-12-03
+2710,18,USA,Tablet,Organic,2023-03-04
+2711,31,UK,Tablet,Facebook Ads,2023-06-18
+2712,53,Thailand,Desktop,Facebook Ads,2023-04-30
+2713,31,Germany,Mobile,Organic,2023-11-05
+2714,35,India,Tablet,Organic,2023-10-15
+2715,59,UK,Tablet,Referral,2023-10-21
+2716,38,Singapore,Mobile,Organic,2023-06-12
+2717,49,Thailand,Desktop,Referral,2023-09-10
+2718,25,UK,Mobile,Affiliate,2023-03-03
+2719,55,UK,Mobile,Affiliate,2023-06-17
+2720,36,Thailand,Tablet,Affiliate,2023-01-11
+2721,47,USA,Mobile,Referral,2023-01-03
+2722,52,Germany,Mobile,Facebook Ads,2023-01-19
+2723,19,Thailand,Desktop,Organic,2023-11-27
+2724,37,USA,Desktop,Facebook Ads,2023-08-01
+2725,23,Germany,Desktop,Referral,2023-07-24
+2726,21,UK,Desktop,Referral,2023-11-10
+2727,59,Thailand,Desktop,Affiliate,2023-09-10
+2728,19,Singapore,Mobile,Organic,2023-02-22
+2729,24,USA,Tablet,Referral,2023-03-13
+2730,28,Thailand,Mobile,Facebook Ads,2023-04-26
+2731,18,India,Mobile,Facebook Ads,2023-10-03
+2732,25,Thailand,Desktop,Organic,2023-01-23
+2733,39,India,Tablet,Referral,2023-05-16
+2734,28,Singapore,Tablet,Referral,2023-05-19
+2735,26,USA,Mobile,Affiliate,2023-03-03
+2736,58,UK,Tablet,Organic,2023-07-31
+2737,51,Singapore,Tablet,Referral,2023-09-25
+2738,49,USA,Desktop,Referral,2023-12-05
+2739,23,USA,Desktop,Organic,2023-04-26
+2740,53,Australia,Mobile,Google Ads,2023-06-30
+2741,22,Thailand,Desktop,Organic,2023-12-22
+2742,18,India,Mobile,Referral,2023-04-19
+2743,30,UK,Mobile,Facebook Ads,2023-07-17
+2744,55,Australia,Tablet,Affiliate,2023-04-17
+2745,37,India,Desktop,Google Ads,2023-06-10
+2746,24,Singapore,Mobile,Facebook Ads,2023-09-16
+2747,46,Australia,Tablet,Affiliate,2023-07-17
+2748,43,Singapore,Mobile,Facebook Ads,2023-04-14
+2749,28,India,Desktop,Affiliate,2023-08-05
+2750,24,Singapore,Desktop,Organic,2023-11-28
+2751,33,Thailand,Desktop,Google Ads,2023-02-26
+2752,19,UK,Tablet,Affiliate,2023-05-17
+2753,40,USA,Mobile,Affiliate,2023-08-20
+2754,40,UK,Mobile,Google Ads,2023-02-13
+2755,50,UK,Tablet,Facebook Ads,2023-07-23
+2756,46,USA,Desktop,Organic,2023-01-28
+2757,59,UK,Tablet,Referral,2023-01-26
+2758,36,Singapore,Desktop,Google Ads,2023-04-10
+2759,35,Germany,Tablet,Referral,2023-11-01
+2760,45,Thailand,Tablet,Organic,2023-09-23
+2761,33,Thailand,Mobile,Organic,2023-11-27
+2762,20,Germany,Desktop,Google Ads,2023-01-28
+2763,52,Thailand,Desktop,Google Ads,2023-02-03
+2764,43,UK,Desktop,Organic,2023-11-14
+2765,35,UK,Mobile,Google Ads,2023-04-23
+2766,40,India,Desktop,Affiliate,2023-04-15
+2767,18,Thailand,Mobile,Affiliate,2023-05-28
+2768,57,UK,Tablet,Facebook Ads,2023-12-25
+2769,33,Singapore,Desktop,Organic,2023-12-19
+2770,29,USA,Desktop,Google Ads,2023-03-27
+2771,60,UK,Desktop,Facebook Ads,2023-01-07
+2772,29,USA,Mobile,Google Ads,2023-01-11
+2773,18,Germany,Desktop,Referral,2023-12-14
+2774,18,UK,Mobile,Referral,2023-10-26
+2775,20,Australia,Mobile,Affiliate,2023-02-26
+2776,36,Australia,Mobile,Affiliate,2023-12-15
+2777,28,Australia,Mobile,Organic,2023-09-15
+2778,37,Australia,Tablet,Facebook Ads,2023-02-21
+2779,49,India,Desktop,Affiliate,2023-08-20
+2780,60,UK,Desktop,Facebook Ads,2023-05-12
+2781,18,Australia,Desktop,Facebook Ads,2023-08-23
+2782,39,Germany,Tablet,Affiliate,2023-12-30
+2783,25,USA,Tablet,Affiliate,2023-09-05
+2784,19,Singapore,Desktop,Google Ads,2023-11-24
+2785,27,USA,Desktop,Organic,2023-12-04
+2786,54,India,Tablet,Referral,2023-05-06
+2787,31,India,Mobile,Google Ads,2023-07-04
+2788,58,Thailand,Desktop,Affiliate,2023-07-13
+2789,51,Singapore,Desktop,Facebook Ads,2023-08-19
+2790,43,Germany,Desktop,Facebook Ads,2023-06-19
+2791,30,Thailand,Tablet,Affiliate,2023-06-08
+2792,39,Australia,Tablet,Organic,2023-12-26
+2793,47,Germany,Desktop,Facebook Ads,2023-08-10
+2794,18,UK,Tablet,Google Ads,2023-02-26
+2795,27,Germany,Desktop,Affiliate,2023-08-27
+2796,60,Singapore,Desktop,Referral,2023-10-13
+2797,22,Australia,Desktop,Organic,2023-05-28
+2798,20,Singapore,Desktop,Affiliate,2023-08-21
+2799,21,UK,Desktop,Organic,2023-03-05
+2800,40,India,Mobile,Organic,2023-08-09
+2801,26,USA,Desktop,Affiliate,2023-05-09
+2802,53,Singapore,Mobile,Facebook Ads,2023-12-07
+2803,30,UK,Tablet,Organic,2023-03-15
+2804,32,Thailand,Desktop,Facebook Ads,2023-05-29
+2805,58,UK,Desktop,Referral,2023-05-08
+2806,34,USA,Tablet,Facebook Ads,2023-02-20
+2807,54,UK,Tablet,Facebook Ads,2023-03-30
+2808,26,India,Mobile,Facebook Ads,2023-10-24
+2809,44,Germany,Mobile,Facebook Ads,2023-03-11
+2810,23,USA,Tablet,Referral,2023-06-06
+2811,29,UK,Desktop,Organic,2023-10-07
+2812,51,UK,Tablet,Facebook Ads,2023-03-12
+2813,40,UK,Desktop,Referral,2023-09-15
+2814,44,UK,Desktop,Organic,2023-08-27
+2815,19,Australia,Desktop,Organic,2023-10-14
+2816,57,USA,Mobile,Affiliate,2023-03-13
+2817,41,Singapore,Tablet,Affiliate,2023-09-20
+2818,36,Thailand,Desktop,Google Ads,2023-10-17
+2819,60,Thailand,Desktop,Affiliate,2023-07-26
+2820,21,Thailand,Mobile,Facebook Ads,2023-08-24
+2821,24,USA,Tablet,Organic,2023-11-29
+2822,54,UK,Tablet,Facebook Ads,2023-05-29
+2823,25,India,Tablet,Affiliate,2023-02-01
+2824,31,Germany,Mobile,Affiliate,2023-01-28
+2825,26,Singapore,Tablet,Google Ads,2023-09-11
+2826,58,USA,Tablet,Organic,2023-06-04
+2827,57,India,Mobile,Organic,2023-09-06
+2828,18,Singapore,Tablet,Organic,2023-02-04
+2829,24,Singapore,Mobile,Organic,2023-09-24
+2830,19,Australia,Tablet,Referral,2023-08-31
+2831,21,Thailand,Desktop,Referral,2023-07-20
+2832,29,Australia,Mobile,Affiliate,2023-09-05
+2833,57,India,Desktop,Affiliate,2023-05-14
+2834,45,Singapore,Tablet,Organic,2023-03-05
+2835,27,Australia,Tablet,Google Ads,2023-04-05
+2836,50,India,Tablet,Affiliate,2023-03-29
+2837,48,UK,Desktop,Facebook Ads,2023-04-13
+2838,24,Germany,Desktop,Facebook Ads,2023-12-08
+2839,35,UK,Desktop,Organic,2023-12-08
+2840,44,Australia,Desktop,Google Ads,2023-08-26
+2841,36,UK,Mobile,Affiliate,2023-01-15
+2842,18,Germany,Desktop,Organic,2023-07-19
+2843,59,India,Tablet,Referral,2023-11-27
+2844,40,Singapore,Desktop,Referral,2023-01-22
+2845,18,Singapore,Desktop,Affiliate,2023-05-22
+2846,31,USA,Tablet,Affiliate,2023-09-15
+2847,50,Thailand,Mobile,Google Ads,2023-07-19
+2848,59,India,Tablet,Facebook Ads,2023-06-30
+2849,26,USA,Tablet,Facebook Ads,2023-08-24
+2850,22,Australia,Tablet,Referral,2023-07-21
+2851,48,Germany,Tablet,Google Ads,2023-07-12
+2852,50,Australia,Tablet,Affiliate,2023-10-22
+2853,26,India,Desktop,Affiliate,2023-05-13
+2854,40,Germany,Tablet,Referral,2023-10-25
+2855,20,Thailand,Tablet,Google Ads,2023-02-04
+2856,24,India,Mobile,Referral,2023-04-29
+2857,48,USA,Mobile,Google Ads,2023-12-14
+2858,29,India,Desktop,Referral,2023-02-23
+2859,21,Germany,Desktop,Organic,2023-02-02
+2860,22,UK,Desktop,Affiliate,2023-01-20
+2861,19,Singapore,Desktop,Organic,2023-11-20
+2862,46,UK,Mobile,Affiliate,2023-12-24
+2863,30,Singapore,Desktop,Referral,2023-10-12
+2864,36,Singapore,Mobile,Google Ads,2023-08-13
+2865,51,Australia,Mobile,Organic,2023-08-11
+2866,19,India,Tablet,Organic,2023-10-26
+2867,20,Australia,Mobile,Organic,2023-04-15
+2868,44,Germany,Tablet,Organic,2023-07-04
+2869,29,India,Tablet,Affiliate,2023-06-24
+2870,30,Australia,Mobile,Affiliate,2023-09-12
+2871,50,USA,Desktop,Affiliate,2023-08-31
+2872,26,Australia,Mobile,Referral,2023-10-14
+2873,58,UK,Mobile,Affiliate,2023-08-07
+2874,26,Australia,Tablet,Facebook Ads,2023-02-10
+2875,25,UK,Mobile,Organic,2023-02-21
+2876,52,USA,Mobile,Google Ads,2023-11-04
+2877,34,UK,Tablet,Facebook Ads,2023-05-29
+2878,28,USA,Mobile,Affiliate,2023-02-04
+2879,33,Australia,Tablet,Affiliate,2023-10-22
+2880,37,UK,Tablet,Organic,2023-09-14
+2881,25,Germany,Desktop,Facebook Ads,2023-10-07
+2882,19,Thailand,Desktop,Referral,2023-12-01
+2883,30,USA,Mobile,Google Ads,2023-05-14
+2884,53,Australia,Tablet,Facebook Ads,2023-04-15
+2885,21,Singapore,Desktop,Organic,2023-12-06
+2886,57,India,Mobile,Facebook Ads,2023-10-16
+2887,44,Germany,Tablet,Affiliate,2023-02-06
+2888,53,UK,Mobile,Facebook Ads,2023-02-11
+2889,24,Thailand,Desktop,Affiliate,2023-01-22
+2890,59,USA,Desktop,Referral,2023-04-26
+2891,32,Thailand,Mobile,Organic,2023-06-05
+2892,52,Germany,Desktop,Organic,2023-04-11
+2893,48,Thailand,Desktop,Referral,2023-10-10
+2894,26,UK,Tablet,Referral,2023-12-23
+2895,26,Thailand,Desktop,Organic,2023-10-09
+2896,41,USA,Mobile,Facebook Ads,2023-11-12
+2897,21,Singapore,Mobile,Organic,2023-08-12
+2898,18,Singapore,Desktop,Affiliate,2023-10-29
+2899,20,Australia,Mobile,Google Ads,2023-10-18
+2900,22,Thailand,Mobile,Referral,2023-01-30
+2901,36,Thailand,Desktop,Facebook Ads,2023-04-03
+2902,59,Singapore,Desktop,Google Ads,2023-11-05
+2903,43,UK,Tablet,Organic,2023-11-07
+2904,22,Thailand,Desktop,Affiliate,2023-12-03
+2905,49,India,Tablet,Facebook Ads,2023-04-16
+2906,46,India,Desktop,Facebook Ads,2023-04-23
+2907,36,Australia,Tablet,Google Ads,2023-10-10
+2908,35,USA,Tablet,Affiliate,2023-09-27
+2909,24,Thailand,Desktop,Referral,2023-09-15
+2910,57,UK,Desktop,Organic,2023-12-28
+2911,26,Australia,Tablet,Google Ads,2023-04-15
+2912,53,Singapore,Mobile,Facebook Ads,2023-06-06
+2913,20,Singapore,Tablet,Referral,2023-03-14
+2914,47,Thailand,Mobile,Referral,2023-11-29
+2915,35,USA,Tablet,Referral,2023-01-18
+2916,23,Thailand,Desktop,Affiliate,2023-06-03
+2917,49,Thailand,Desktop,Referral,2023-07-16
+2918,20,Singapore,Mobile,Referral,2023-08-16
+2919,60,UK,Tablet,Organic,2023-04-05
+2920,37,Thailand,Tablet,Facebook Ads,2023-12-05
+2921,56,Australia,Desktop,Facebook Ads,2023-01-14
+2922,31,Australia,Mobile,Facebook Ads,2023-10-30
+2923,45,Australia,Desktop,Organic,2023-11-15
+2924,53,UK,Tablet,Facebook Ads,2023-02-25
+2925,47,UK,Tablet,Affiliate,2023-10-01
+2926,34,Singapore,Desktop,Referral,2023-09-23
+2927,26,Thailand,Desktop,Facebook Ads,2023-05-02
+2928,33,Australia,Tablet,Facebook Ads,2023-02-13
+2929,54,UK,Mobile,Affiliate,2023-06-22
+2930,41,USA,Tablet,Facebook Ads,2023-05-21
+2931,56,Thailand,Mobile,Facebook Ads,2023-12-01
+2932,60,USA,Desktop,Google Ads,2023-10-19
+2933,47,Thailand,Desktop,Organic,2023-08-16
+2934,20,USA,Desktop,Affiliate,2023-08-27
+2935,44,Thailand,Tablet,Organic,2023-04-22
+2936,57,Germany,Desktop,Organic,2023-05-22
+2937,29,USA,Desktop,Facebook Ads,2023-08-14
+2938,26,Singapore,Tablet,Google Ads,2023-09-11
+2939,57,India,Mobile,Google Ads,2023-03-17
+2940,59,Thailand,Mobile,Affiliate,2023-02-28
+2941,55,USA,Mobile,Affiliate,2023-08-14
+2942,21,India,Desktop,Facebook Ads,2023-04-27
+2943,40,Germany,Tablet,Organic,2023-01-09
+2944,33,USA,Mobile,Organic,2023-11-04
+2945,46,Thailand,Tablet,Organic,2023-09-17
+2946,31,USA,Tablet,Facebook Ads,2023-05-02
+2947,44,Thailand,Tablet,Referral,2023-12-15
+2948,27,Thailand,Desktop,Affiliate,2023-05-25
+2949,39,UK,Tablet,Facebook Ads,2023-07-04
+2950,36,Germany,Mobile,Google Ads,2023-08-29
+2951,20,USA,Mobile,Affiliate,2023-07-08
+2952,24,Germany,Mobile,Facebook Ads,2023-01-14
+2953,50,Australia,Tablet,Facebook Ads,2023-09-19
+2954,42,Australia,Tablet,Organic,2023-04-21
+2955,27,UK,Tablet,Organic,2023-12-03
+2956,32,Germany,Tablet,Affiliate,2023-02-09
+2957,53,India,Desktop,Affiliate,2023-11-19
+2958,51,Australia,Mobile,Affiliate,2023-03-04
+2959,60,Germany,Tablet,Referral,2023-08-30
+2960,35,Singapore,Tablet,Facebook Ads,2023-06-12
+2961,39,Singapore,Desktop,Google Ads,2023-05-05
+2962,38,India,Mobile,Google Ads,2023-08-22
+2963,44,USA,Mobile,Facebook Ads,2023-08-16
+2964,50,Thailand,Desktop,Referral,2023-10-14
+2965,32,UK,Desktop,Google Ads,2023-11-06
+2966,26,Germany,Mobile,Referral,2023-10-19
+2967,55,India,Mobile,Affiliate,2023-12-12
+2968,36,USA,Desktop,Organic,2023-05-14
+2969,44,UK,Tablet,Google Ads,2023-02-11
+2970,49,India,Mobile,Google Ads,2023-10-22
+2971,18,Singapore,Mobile,Referral,2023-08-21
+2972,53,India,Desktop,Organic,2023-05-15
+2973,20,Australia,Desktop,Organic,2023-03-06
+2974,28,Thailand,Mobile,Affiliate,2023-12-20
+2975,42,UK,Desktop,Google Ads,2023-09-29
+2976,53,Singapore,Tablet,Facebook Ads,2023-07-25
+2977,39,Australia,Desktop,Affiliate,2023-03-02
+2978,57,Thailand,Tablet,Organic,2023-11-08
+2979,40,UK,Desktop,Referral,2023-02-07
+2980,36,Australia,Desktop,Google Ads,2023-08-12
+2981,55,Australia,Tablet,Organic,2023-04-04
+2982,18,Germany,Tablet,Facebook Ads,2023-03-19
+2983,59,UK,Desktop,Facebook Ads,2023-12-12
+2984,29,Germany,Tablet,Affiliate,2023-08-13
+2985,24,Singapore,Desktop,Referral,2023-05-24
+2986,21,Germany,Tablet,Affiliate,2023-06-24
+2987,50,Australia,Desktop,Facebook Ads,2023-10-24
+2988,42,USA,Mobile,Google Ads,2023-06-15
+2989,31,UK,Tablet,Facebook Ads,2023-01-22
+2990,57,USA,Mobile,Facebook Ads,2023-10-22
+2991,28,Thailand,Desktop,Facebook Ads,2023-05-26
+2992,46,Singapore,Mobile,Facebook Ads,2023-09-07
+2993,56,Australia,Mobile,Google Ads,2023-05-13
+2994,35,Singapore,Mobile,Google Ads,2023-12-08
+2995,50,Australia,Mobile,Organic,2023-10-10
+2996,20,Germany,Tablet,Google Ads,2023-11-03
+2997,49,Australia,Mobile,Facebook Ads,2023-01-04
+2998,36,Germany,Desktop,Referral,2023-04-15
+2999,26,Australia,Desktop,Facebook Ads,2023-09-24
+3000,25,UK,Desktop,Referral,2023-02-26
