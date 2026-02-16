@@ -1,19 +1,14 @@
 # Subscription Revenue Analytics (SQL)
 
-## Overview
+# Subscription Revenue Analytics & KPI Modeling (SQL)
 
-This project models subscription-based revenue using SQL and lifecycle-aware logic.
+## Project Overview
 
-It builds a time-based KPI engine to analyze:
+This project builds a lifecycle-aware revenue analytics engine for a subscription-based business using SQL.
 
-- Monthly Recurring Revenue (MRR)
-- Active Subscribers
-- New & Churned MRR
-- Net Revenue Growth
-- Revenue by Acquisition Channel
-- ARPU by Marketing Source
+The goal was to simulate how a SaaS analytics team models Monthly Recurring Revenue (MRR), churn, growth, and revenue segmentation for reporting and strategic decision-making.
 
-The goal of this project is to simulate how a SaaS analytics team would model subscription revenue for reporting and business decision-making.
+The system expands subscriptions across active months using a generated date spine and calculates revenue movement using structured CTE pipelines and window functions.
 
 
 ---
@@ -77,15 +72,19 @@ This enables performance comparison across marketing sources.
 
 ## Project Structure
 
+```bash
 subscription-analytics-sql/
 │
 ├── data/
+│
 ├── sql/
-│ ├── 01_schema.sql
-│ ├── 02_kpi_engine.sql
-│ └── 03_revenue_breakdown.sql
+│   ├── 01_schema.sql
+│   ├── 02_kpi_engine.sql
+│   └── 03_revenue_breakdown.sql
 │
 └── README.md
+```
+
 ---
 
 ## Why This Project
@@ -99,3 +98,15 @@ This project demonstrates:
 - Analytics-focused problem solving
 
 It serves as a foundation for future predictive modeling and churn analysis workflows.
+
+---
+
+## What This Project Demonstrates
+
+- Ability to model time-based subscription revenue
+- Strong understanding of SaaS KPIs and growth mechanics
+- Clean SQL architecture using layered CTEs
+- Business-oriented metric design
+- Readiness for analytics and data-focused roles
+
+This project serves as a foundation for future work in churn prediction, cohort analysis, and machine learning-based revenue forecasting.
