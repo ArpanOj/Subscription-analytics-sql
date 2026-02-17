@@ -123,6 +123,7 @@ subscription-analytics-sql/
 │
 ├── Notebooks/
 │   └──churn_prediction.ipynb
+│
 ├── Outputs/
 │   └── dashboard.png
 │
