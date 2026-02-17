@@ -67,7 +67,28 @@ This enables performance comparison across marketing sources.
 
 
 ---
+## 🤖 Predictive Churn Modeling
 
+A Logistic Regression model was built to predict customer churn using engineered user-level features.
+
+### Feature Engineering
+
+- Payment count  
+- Total revenue  
+- Average payment amount  
+- Active days  
+- Total watch time  
+- Average watch time per day  
+- Subscription plan pricing  
+
+### Model Performance
+
+- Model: Logistic Regression  
+- Evaluation Metric: ROC-AUC  
+- Achieved ROC-AUC: **0.75**
+
+An initial model achieved AUC = 1.0 due to data leakage caused by using post-churn subscription end dates.  
+The leakage was removed to ensure realistic predictive evaluation.
 ## Technical Highlights
 
 - PostgreSQL
@@ -76,6 +97,11 @@ This enables performance comparison across marketing sources.
 - Date Spine Generation
 - Lifecycle Modeling
 - Revenue Aggregation Logic
+- SQL  
+- Python (pandas, matplotlib, seaborn)  
+- scikit-learn  
+- Jupyter Notebook  
+- Git & GitHub 
 
 
 ---
@@ -95,6 +121,8 @@ subscription-analytics-sql/
 │   ├── payments.csv
 │   └── user_activity.csv
 │
+├── Notebooks/
+│   └──churn_prediction.ipynb
 ├── Outputs/
 │   └── dashboard.png
 │
