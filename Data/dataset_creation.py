@@ -65,7 +65,7 @@ for user_id in users_df["user_id"]:
 
         if churn_chance < 0.25:
             end_date = start_date + timedelta(days=random.randint(60, 365))
-            status = "Canceled"
+            status = "Cancelled"
             active = False
         else:
             end_date = None
